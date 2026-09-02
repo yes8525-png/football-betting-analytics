@@ -29,3 +29,13 @@ c0487bc7,2026-09-02T21:35:08.660652,564682,Primera Division,Real Sociedad de Fú
 a0548949,2026-09-02T21:35:08.660652,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,1X2 - Away,0.4595,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0
 064b83ac,2026-09-02T21:35:08.660652,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,Over 2.5 goals,0.7369,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0
 182c0462,2026-09-02T21:35:08.660652,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,Under 2.5 goals,0.2631,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0
+7c57589a,2026-09-02T21:45:23.118431,559696,Ligue 1,Toulouse FC,Lille OSC,2026-09-03T18:45:00Z,1X2 - Home,0.0746,,,,0.48,2.05,8.8,5.2,poisson_baseline_v0
+6203afc4,2026-09-02T21:45:23.118431,559696,Ligue 1,Toulouse FC,Lille OSC,2026-09-03T18:45:00Z,1X2 - Draw,0.1793,,,,0.48,2.05,8.8,5.2,poisson_baseline_v0
+2cb681e8,2026-09-02T21:45:23.118431,559696,Ligue 1,Toulouse FC,Lille OSC,2026-09-03T18:45:00Z,1X2 - Away,0.7459,,,,0.48,2.05,8.8,5.2,poisson_baseline_v0
+3d3f13dc,2026-09-02T21:45:23.118431,559696,Ligue 1,Toulouse FC,Lille OSC,2026-09-03T18:45:00Z,Over 2.5 goals,0.4632,,,,0.48,2.05,8.8,5.2,poisson_baseline_v0
+be17c6f3,2026-09-02T21:45:23.118431,559696,Ligue 1,Toulouse FC,Lille OSC,2026-09-03T18:45:00Z,Under 2.5 goals,0.5368,,,,0.48,2.05,8.8,5.2,poisson_baseline_v0
+ff539607,2026-09-02T21:45:23.118431,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,1X2 - Home,0.3309,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0
+85548ad6,2026-09-02T21:45:23.118431,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,1X2 - Draw,0.2092,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0
+1ce03993,2026-09-02T21:45:23.118431,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,1X2 - Away,0.4595,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0
+e5cdf84b,2026-09-02T21:45:23.118431,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,Over 2.5 goals,0.7369,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0
+01c88352,2026-09-02T21:45:23.118431,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,Under 2.5 goals,0.2631,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0

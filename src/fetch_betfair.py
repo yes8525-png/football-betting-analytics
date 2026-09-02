@@ -4,8 +4,12 @@ Login e Application Key richiedono le credenziali di un conto scommesse reale: v
 e solo messe come GitHub Actions secrets (BETFAIR_APP_KEY, BETFAIR_USERNAME, BETFAIR_PASSWORD),
 mai in chat con Claude. La Delayed Application Key e' gratuita e sufficiente per questo uso
 (dati con qualche decina di secondi di ritardo, niente scommesse reali).
+
+Versione con debug esplicito: ogni passaggio stampa qualcosa su stdout con flush=True,
+cosi' se qualcosa si blocca o fallisce silenziosamente lo vediamo subito nel log.
 """
 import sys
+import traceback
 import datetime
 import requests
 import pandas as pd
@@ -15,6 +19,10 @@ import name_matching
 
 LOGIN_URL = "https://identitysso.betfair.com/api/login"
 BETTING_URL = "https://api.betfair.com/exchange/betting/json-rpc/v1"
+
+
+def _log(msg):
+    print(f"[Betfair] {msg}", flush=True)
 
 
 def is_configured() -> bool:
@@ -88,42 +96,55 @@ def _match_markets_to_fixtures(markets, fixtures: pd.DataFrame):
 
 
 def fetch_all():
+    _log("fetch_all() avviato")
+
     if not is_configured():
-        print("! Betfair non configurato (Fase 2): salto il recupero volumi.", file=sys.stderr)
+        _log("secrets mancanti (BETFAIR_APP_KEY / BETFAIR_USERNAME / BETFAIR_PASSWORD): salto.")
         return
+    _log("secrets presenti, procedo")
 
     fixtures_path = FIXTURES_DIR / "fixtures_master.csv"
     if not fixtures_path.exists():
-        print("! nessuna fixture disponibile: salto Betfair.", file=sys.stderr)
+        _log("nessuna fixture disponibile: salto Betfair.")
         return
     fixtures = pd.read_csv(fixtures_path)
+    _log(f"{len(fixtures)} fixture caricate da fixtures_master.csv")
 
     try:
+        _log("provo il login su Betfair...")
         session_token = _login()
+        _log("login riuscito, ho un session token")
     except Exception as e:
-        print(f"! login Betfair fallito: {e}", file=sys.stderr)
+        _log(f"LOGIN FALLITO: {type(e).__name__}: {e}")
+        traceback.print_exc()
         return
 
     try:
+        _log("chiedo la lista dei mercati Soccer (listMarketCatalogue)...")
         markets = _list_soccer_markets(session_token)
+        _log(f"ricevuti {len(markets)} mercati da Betfair")
     except Exception as e:
-        print(f"! errore nel recupero mercati Betfair: {e}", file=sys.stderr)
+        _log(f"ERRORE nel recupero mercati Betfair: {type(e).__name__}: {e}")
+        traceback.print_exc()
         return
 
     matched = _match_markets_to_fixtures(markets, fixtures)
+    _log(f"{len(matched)} mercati Betfair abbinati alle nostre fixture")
     if not matched:
-        print("Nessun mercato Betfair abbinato alle fixture di oggi.")
+        _log("nessun mercato abbinato: fine (non e' un errore, puo' dipendere dagli orari o dal name matching).")
         return
-    print(f"  {len(matched)} mercati Betfair abbinati alle fixture")
 
     market_ids = [m["marketId"] for m, _ in matched]
     try:
+        _log("scarico prezzi/volumi (listMarketBook)...")
         books = _rpc(session_token, "listMarketBook", {
             "marketIds": market_ids,
             "priceProjection": {"priceData": ["EX_BEST_OFFERS"]},
         })
+        _log(f"ricevuti {len(books)} market book")
     except Exception as e:
-        print(f"! errore nel recupero prezzi/volumi Betfair: {e}", file=sys.stderr)
+        _log(f"ERRORE nel recupero prezzi/volumi Betfair: {type(e).__name__}: {e}")
+        traceback.print_exc()
         return
     books_by_id = {b["marketId"]: b for b in books}
 
@@ -152,7 +173,7 @@ def fetch_all():
             })
 
     if not rows:
-        print("Nessun dato di volume trovato per i mercati abbinati.")
+        _log("nessuna riga di volume costruita a partire dai market book.")
         return
 
     out = pd.DataFrame(rows)
@@ -167,7 +188,7 @@ def fetch_all():
     else:
         master = out
     master.to_csv(master_path, index=False)
-    print(f"-> {len(out)} righe di volume Betfair salvate in {out_path}")
+    _log(f"-> {len(out)} righe di volume Betfair salvate in {out_path}")
 
 
 if __name__ == "__main__":

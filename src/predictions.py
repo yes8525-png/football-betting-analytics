@@ -3,13 +3,15 @@ import uuid
 import datetime
 import pandas as pd
 
-from config import PREDICTIONS_DIR, LEAGUES, HISTORICAL_DIR
+from config import PREDICTIONS_DIR, LEAGUES
 import team_stats
 import model_poisson
+import name_matching
 
 
 def build_predictions(fixtures: pd.DataFrame, odds: pd.DataFrame) -> pd.DataFrame:
     if fixtures.empty:
+        print("Nessuna fixture disponibile: niente previsioni da generare.")
         return pd.DataFrame()
 
     league_by_code = {l["fd_org"]: l for l in LEAGUES}
@@ -17,18 +19,36 @@ def build_predictions(fixtures: pd.DataFrame, odds: pd.DataFrame) -> pd.DataFram
     rows = []
 
     for _, fx in fixtures.iterrows():
+        label = f"{fx['home_team']} - {fx['away_team']} ({fx['competition']})"
         league = league_by_code.get(fx["competition_code"])
         if league is None or league["fd_couk"] is None:
-            continue  # niente storico disponibile per questa competizione (es. Champions League)
+            print(f"  salto {label}: competizione senza storico disponibile (es. Champions League)")
+            continue
 
         hist = team_stats.load_league_history(league["fd_couk"])
         if hist.empty:
+            print(f"  salto {label}: nessuno storico trovato per {league['fd_couk']}")
             continue
         league_avg = team_stats.league_averages(hist)
-        home_form = team_stats.team_form(hist, fx["home_team"])
-        away_form = team_stats.team_form(hist, fx["away_team"])
+
+        candidates = sorted(set(hist["HomeTeam"].dropna()) | set(hist["AwayTeam"].dropna()))
+        home_match = name_matching.best_match(fx["home_team"], candidates)
+        away_match = name_matching.best_match(fx["away_team"], candidates)
+
+        if not home_match or not away_match:
+            print(f"  salto {label}: nome squadra non riconosciuto nello storico "
+                  f"(casa: {fx['home_team']!r} -> {home_match!r}, "
+                  f"trasferta: {fx['away_team']!r} -> {away_match!r})")
+            continue
+        if home_match == away_match:
+            print(f"  salto {label}: match ambiguo, casa e trasferta risolte sulla stessa squadra ({home_match!r})")
+            continue
+
+        home_form = team_stats.team_form(hist, home_match)
+        away_form = team_stats.team_form(hist, away_match)
         if not home_form or not away_form:
-            continue  # squadra neopromossa o nome non corrispondente tra le fonti dati
+            print(f"  salto {label}: dati di forma insufficienti per {home_match}/{away_match}")
+            continue
 
         home_xg, away_xg = model_poisson.expected_goals(home_form, away_form, league_avg)
         probs = model_poisson.match_probabilities(home_xg, away_xg)
@@ -74,13 +94,14 @@ def build_predictions(fixtures: pd.DataFrame, odds: pd.DataFrame) -> pd.DataFram
                 "expected_cards": cards.get("expected_total_cards"),
                 "model_version": "poisson_baseline_v0",
             })
+        print(f"  ok {label}: previsioni generate ({home_match} / {away_match})")
 
     return pd.DataFrame(rows)
 
 
 def save_predictions(df: pd.DataFrame):
     if df.empty:
-        print("Nessuna previsione generata (dati insufficienti per le partite trovate).")
+        print("Nessuna previsione generata (vedi sopra i motivi per ogni partita saltata).")
         return
     master_path = PREDICTIONS_DIR / "predictions_log.csv"
     if master_path.exists():

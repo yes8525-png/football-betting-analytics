@@ -4,6 +4,6 @@ match_id,competition,competition_code,utc_date,status,home_team,away_team,home_s
 559699,Ligue 1,FL1,2026-09-04T17:00:00Z,TIMED,Olympique Lyonnais,AJ Auxerre,,
 565791,Bundesliga,BL1,2026-09-04T18:30:00Z,TIMED,VfB Stuttgart,1. FC Köln,,
 558609,Serie A,SA,2026-09-04T18:45:00Z,TIMED,Genoa CFC,Como 1907,,
-560566,Premier League,PL,2026-09-04T19:00:00Z,TIMED,Ipswich Town FC,Liverpool FC,,
 564667,Primera Division,PD,2026-09-04T19:00:00Z,2026-09-05 13:15:00Z,Real Betis Balompié,Real Madrid CF,,
+560566,Premier League,PL,2026-09-04T19:00:00Z,TIMED,Ipswich Town FC,Liverpool FC,,
 559697,Ligue 1,FL1,2026-09-04T19:05:00Z,TIMED,Paris Saint-Germain FC,AS Monaco FC,,

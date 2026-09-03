@@ -144,3 +144,38 @@ a6074600,2026-09-03T09:36:30.156999,559697,Ligue 1,Paris Saint-Germain FC,AS Mon
 d52f14c4,2026-09-03T09:36:30.156999,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Away,0.399,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
 688b78ff,2026-09-03T09:36:30.156999,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Over 2.5 goals,0.7221,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
 33cfb0c9,2026-09-03T09:36:30.156999,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Under 2.5 goals,0.2779,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
+d8ca752e,2026-09-03T10:30:10.881538,559696,Ligue 1,Toulouse FC,Lille OSC,2026-09-03T18:45:00Z,1X2 - Home,0.0746,,,,0.48,2.05,8.8,5.2,poisson_baseline_v0
+2a331bee,2026-09-03T10:30:10.881538,559696,Ligue 1,Toulouse FC,Lille OSC,2026-09-03T18:45:00Z,1X2 - Draw,0.1793,,,,0.48,2.05,8.8,5.2,poisson_baseline_v0
+8fed6281,2026-09-03T10:30:10.881538,559696,Ligue 1,Toulouse FC,Lille OSC,2026-09-03T18:45:00Z,1X2 - Away,0.7459,,,,0.48,2.05,8.8,5.2,poisson_baseline_v0
+cabcf03d,2026-09-03T10:30:10.881538,559696,Ligue 1,Toulouse FC,Lille OSC,2026-09-03T18:45:00Z,Over 2.5 goals,0.4632,,,,0.48,2.05,8.8,5.2,poisson_baseline_v0
+dbda23ab,2026-09-03T10:30:10.881538,559696,Ligue 1,Toulouse FC,Lille OSC,2026-09-03T18:45:00Z,Under 2.5 goals,0.5368,,,,0.48,2.05,8.8,5.2,poisson_baseline_v0
+d3f2f759,2026-09-03T10:30:10.881538,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,1X2 - Home,0.3309,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0
+75faadeb,2026-09-03T10:30:10.881538,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,1X2 - Draw,0.2092,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0
+af4c751e,2026-09-03T10:30:10.881538,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,1X2 - Away,0.4595,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0
+f4ecabdb,2026-09-03T10:30:10.881538,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,Over 2.5 goals,0.7369,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0
+1f8579af,2026-09-03T10:30:10.881538,564682,Primera Division,Real Sociedad de Fútbol,RC Celta de Vigo,2026-09-03T19:00:00Z,Under 2.5 goals,0.2631,,,,1.76,2.08,8.27,4.93,poisson_baseline_v0
+60d9b235,2026-09-03T10:30:10.881538,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,1X2 - Home,0.567,1.59,0.6289,-0.0619,2.93,2.02,10.3,4.27,poisson_baseline_v0
+d0bfbf8b,2026-09-03T10:30:10.881538,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,1X2 - Draw,0.171,5.1,0.1961,-0.0251,2.93,2.02,10.3,4.27,poisson_baseline_v0
+5b3df832,2026-09-03T10:30:10.881538,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,1X2 - Away,0.2585,6.0,0.1667,0.0918,2.93,2.02,10.3,4.27,poisson_baseline_v0
+2ab58f1f,2026-09-03T10:30:10.881538,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,Over 2.5 goals,0.868,2.02,0.495,0.373,2.93,2.02,10.3,4.27,poisson_baseline_v0
+0e035fe9,2026-09-03T10:30:10.881538,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,Under 2.5 goals,0.132,3.1,0.3226,-0.1906,2.93,2.02,10.3,4.27,poisson_baseline_v0
+48d9b8fc,2026-09-03T10:30:10.881538,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,1X2 - Home,0.0875,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0
+aa5ffae7,2026-09-03T10:30:10.881538,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,1X2 - Draw,0.2182,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0
+65358b77,2026-09-03T10:30:10.881538,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,1X2 - Away,0.6942,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0
+71b0d640,2026-09-03T10:30:10.881538,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,Over 2.5 goals,0.3701,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0
+c02fd4a3,2026-09-03T10:30:10.881538,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,Under 2.5 goals,0.6299,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0
+7e29ec4e,2026-09-03T10:30:10.881538,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,1X2 - Home,0.104,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0
+5c6322be,2026-09-03T10:30:10.881538,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,1X2 - Draw,0.1453,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0
+79463bab,2026-09-03T10:30:10.881538,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,1X2 - Away,0.7484,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0
+9660c0b7,2026-09-03T10:30:10.881538,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,Over 2.5 goals,0.7167,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0
+e8cfe5d2,2026-09-03T10:30:10.881538,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,Under 2.5 goals,0.2833,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0
+eff492e6,2026-09-03T10:30:10.881538,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,1X2 - Home,0.0742,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0
+08b950ea,2026-09-03T10:30:10.881538,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,1X2 - Draw,0.105,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0
+01bdac23,2026-09-03T10:30:10.881538,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,1X2 - Away,0.811,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0
+65d95a3a,2026-09-03T10:30:10.881538,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,Over 2.5 goals,0.8235,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0
+ef86f2a2,2026-09-03T10:30:10.881538,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,Under 2.5 goals,0.1765,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0
+34bd692e,2026-09-03T10:30:10.881538,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Home,0.3862,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
+aeda2c3e,2026-09-03T10:30:10.881538,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Draw,0.2145,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
+29354ac9,2026-09-03T10:30:10.881538,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Away,0.399,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
+60e7bc0f,2026-09-03T10:30:10.881538,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Over 2.5 goals,0.7221,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
+1ae8637c,2026-09-03T10:30:10.881538,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Under 2.5 goals,0.2779,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0

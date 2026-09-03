@@ -18,11 +18,22 @@ from config import BETFAIR_DIR, BETFAIR_APP_KEY, BETFAIR_USERNAME, BETFAIR_PASSW
 import name_matching
 
 # Il login e' specifico per giurisdizione: un conto .it (come il nostro) deve autenticarsi
-# su identitysso.betfair.it, non su identitysso.betfair.com (quello e' per conti UK/globali,
-# e infatti dava 403 Forbidden). L'endpoint di trading (api.betfair.com) invece resta lo stesso
-# per tutte le giurisdizioni, cambia solo il login.
+# su identitysso.betfair.it, non su identitysso.betfair.com (quello e' per conti UK/globali).
+# L'endpoint di trading (api.betfair.com) invece resta lo stesso per tutte le giurisdizioni,
+# cambia solo il login.
 LOGIN_URL = "https://identitysso.betfair.it/api/login"
 BETTING_URL = "https://api.betfair.com/exchange/betting/json-rpc/v1"
+
+# Fase 2 disattivata (2026-09-03): il login su identitysso.betfair.it ritorna sempre
+# 403 Forbidden quando la richiesta parte da GitHub Actions (server nei data center Microsoft
+# Azure). Non e' un bug nostro: Betfair per il mercato italiano blocca le chiamate API che
+# arrivano da IP di hosting/cloud non riconosciuti come connessioni italiane normali (e dopo
+# le nuove regole ADM di novembre 2025 ha anche stretto l'accesso via software di terze parti).
+# Username, password e Application Key sono corretti e verificati: il problema e' la posizione
+# del server, non le credenziali. Il codice sotto resta pronto e funzionante: se in futuro si
+# vuole far girare questo pezzo da un PC/connessione italiana invece che dal cloud, basta
+# rimettere PHASE_2_ENABLED a True.
+PHASE_2_ENABLED = False
 
 
 def _log(msg):
@@ -101,6 +112,12 @@ def _match_markets_to_fixtures(markets, fixtures: pd.DataFrame):
 
 def fetch_all():
     _log("fetch_all() avviato")
+
+    if not PHASE_2_ENABLED:
+        _log("Fase 2 disattivata volontariamente (Betfair blocca le richieste da server "
+             "cloud/non italiani su identitysso.betfair.it, vedi commento in cima al file). "
+             "Il resto della pipeline continua normalmente.")
+        return
 
     if not is_configured():
         _log("secrets mancanti (BETFAIR_APP_KEY / BETFAIR_USERNAME / BETFAIR_PASSWORD): salto.")

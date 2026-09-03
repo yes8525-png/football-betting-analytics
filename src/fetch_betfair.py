@@ -17,7 +17,11 @@ import pandas as pd
 from config import BETFAIR_DIR, BETFAIR_APP_KEY, BETFAIR_USERNAME, BETFAIR_PASSWORD, FIXTURES_DIR
 import name_matching
 
-LOGIN_URL = "https://identitysso.betfair.com/api/login"
+# Il login e' specifico per giurisdizione: un conto .it (come il nostro) deve autenticarsi
+# su identitysso.betfair.it, non su identitysso.betfair.com (quello e' per conti UK/globali,
+# e infatti dava 403 Forbidden). L'endpoint di trading (api.betfair.com) invece resta lo stesso
+# per tutte le giurisdizioni, cambia solo il login.
+LOGIN_URL = "https://identitysso.betfair.it/api/login"
 BETTING_URL = "https://api.betfair.com/exchange/betting/json-rpc/v1"
 
 

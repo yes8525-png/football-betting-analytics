@@ -1,10 +1,10 @@
 # Previsioni in programma
 
-Generato il 05/09/2026 alle 00:53 (ora italiana).
+Generato il 05/09/2026 alle 01:09 (ora italiana).
 
 Nota: sistema in fase di test/carta, nessuna scommessa reale. Le probabilita' sono stime di un modello statistico (Poisson) basato sullo storico delle squadre, non certezze.
 
-**Finora:** 150 previsioni gia' concluse e verificate. Accuratezza grezza: 40.0%. Edge medio stimato: 3.7%. Campione ancora piccolo, non e' un segnale affidabile.
+**Finora:** 175 previsioni gia' concluse e verificate. Accuratezza grezza: 40.0%. Edge medio stimato: 3.7%. Campione ancora piccolo, non e' un segnale affidabile.
 
 ## Newcastle United FC - AFC Bournemouth
 *Premier League — Sat 05/09 13:30*
@@ -50,11 +50,11 @@ Gol attesi: 0.76 - 2.26 · Corner attesi (totale): 9.9 · Cartellini attesi (tot
 
 | Mercato | Probabilita' modello | Quota mercato | Prob. implicita quota | Edge stimato |
 |---|---|---|---|---|
+| Under 2.5 gol | 27.1% | - | - | - |
+| Over 2.5 gol | 73.0% | - | - | - |
+| 2 (vittoria trasferta) | 27.8% | - | - | - |
 | X (pareggio) | 20.4% | - | - | - |
 | 1 (vittoria casa) | 51.8% | - | - | - |
-| 2 (vittoria trasferta) | 27.8% | - | - | - |
-| Over 2.5 gol | 73.0% | - | - | - |
-| Under 2.5 gol | 27.1% | - | - | - |
 
 Gol attesi: 2.21 - 1.59 · Corner attesi (totale): 9.6 · Cartellini attesi (totale): 3.9
 
@@ -63,11 +63,11 @@ Gol attesi: 2.21 - 1.59 · Corner attesi (totale): 9.6 · Cartellini attesi (tot
 
 | Mercato | Probabilita' modello | Quota mercato | Prob. implicita quota | Edge stimato |
 |---|---|---|---|---|
-| X (pareggio) | 13.5% | - | - | - |
-| 1 (vittoria casa) | 12.6% | - | - | - |
 | Under 2.5 gol | 16.7% | - | - | - |
 | Over 2.5 gol | 83.3% | - | - | - |
 | 2 (vittoria trasferta) | 73.3% | - | - | - |
+| X (pareggio) | 13.5% | - | - | - |
+| 1 (vittoria casa) | 12.6% | - | - | - |
 
 Gol attesi: 1.37 - 3.25 · Corner attesi (totale): 7.4 · Cartellini attesi (totale): 5.6
 
@@ -76,11 +76,11 @@ Gol attesi: 1.37 - 3.25 · Corner attesi (totale): 7.4 · Cartellini attesi (tot
 
 | Mercato | Probabilita' modello | Quota mercato | Prob. implicita quota | Edge stimato |
 |---|---|---|---|---|
-| Under 2.5 gol | 23.9% | - | - | - |
-| Over 2.5 gol | 76.1% | - | - | - |
 | 2 (vittoria trasferta) | 80.0% | - | - | - |
 | X (pareggio) | 11.8% | - | - | - |
 | 1 (vittoria casa) | 7.7% | - | - | - |
+| Over 2.5 gol | 76.1% | - | - | - |
+| Under 2.5 gol | 23.9% | - | - | - |
 
 Gol attesi: 0.91 - 3.11 · Corner attesi (totale): 9.7 · Cartellini attesi (totale): 4.7
 
@@ -89,10 +89,10 @@ Gol attesi: 0.91 - 3.11 · Corner attesi (totale): 9.7 · Cartellini attesi (tot
 
 | Mercato | Probabilita' modello | Quota mercato | Prob. implicita quota | Edge stimato |
 |---|---|---|---|---|
+| X (pareggio) | 15.5% | - | - | - |
 | Under 2.5 gol | 35.2% | - | - | - |
 | Over 2.5 gol | 64.8% | - | - | - |
 | 2 (vittoria trasferta) | 74.5% | - | - | - |
-| X (pareggio) | 15.5% | - | - | - |
 | 1 (vittoria casa) | 9.9% | - | - | - |
 
 Gol attesi: 0.81 - 2.53 · Corner attesi (totale): 9.3 · Cartellini attesi (totale): 4.0
@@ -105,8 +105,8 @@ Gol attesi: 0.81 - 2.53 · Corner attesi (totale): 9.3 · Cartellini attesi (tot
 | Under 2.5 gol | 50.9% | - | - | - |
 | Over 2.5 gol | 49.1% | - | - | - |
 | 2 (vittoria trasferta) | 12.9% | - | - | - |
-| X (pareggio) | 20.8% | - | - | - |
 | 1 (vittoria casa) | 66.3% | - | - | - |
+| X (pareggio) | 20.8% | - | - | - |
 
 Gol attesi: 1.93 - 0.71 · Corner attesi (totale): 9.9 · Cartellini attesi (totale): 4.5
 
@@ -118,8 +118,8 @@ Gol attesi: 1.93 - 0.71 · Corner attesi (totale): 9.9 · Cartellini attesi (tot
 | Under 2.5 gol | 30.3% | - | - | - |
 | Over 2.5 gol | 69.7% | - | - | - |
 | 2 (vittoria trasferta) | 9.2% | - | - | - |
-| 1 (vittoria casa) | 76.4% | - | - | - |
 | X (pareggio) | 14.1% | - | - | - |
+| 1 (vittoria casa) | 76.4% | - | - | - |
 
 Gol attesi: 2.74 - 0.87 · Corner attesi (totale): 10.4 · Cartellini attesi (totale): 2.6
 
@@ -180,9 +180,9 @@ Gol attesi: 1.17 - 2.80 · Corner attesi (totale): 10.6 · Cartellini attesi (to
 
 | Mercato | Probabilita' modello | Quota mercato | Prob. implicita quota | Edge stimato |
 |---|---|---|---|---|
-| 2 (vittoria trasferta) | 33.0% | - | - | - |
 | Under 2.5 gol | 26.9% | - | - | - |
 | Over 2.5 gol | 73.1% | - | - | - |
+| 2 (vittoria trasferta) | 33.0% | - | - | - |
 | X (pareggio) | 21.0% | - | - | - |
 | 1 (vittoria casa) | 45.9% | - | - | - |
 
@@ -219,11 +219,11 @@ Gol attesi: 1.01 - 5.49 · Corner attesi (totale): 11.0 · Cartellini attesi (to
 
 | Mercato | Probabilita' modello | Quota mercato | Prob. implicita quota | Edge stimato |
 |---|---|---|---|---|
-| 1 (vittoria casa) | 47.0% | - | - | - |
-| X (pareggio) | 23.5% | - | - | - |
-| 2 (vittoria trasferta) | 29.5% | - | - | - |
 | Under 2.5 gol | 40.8% | - | - | - |
 | Over 2.5 gol | 59.2% | - | - | - |
+| 2 (vittoria trasferta) | 29.5% | - | - | - |
+| X (pareggio) | 23.5% | - | - | - |
+| 1 (vittoria casa) | 47.0% | - | - | - |
 
 Gol attesi: 1.74 - 1.33 · Corner attesi (totale): 8.6 · Cartellini attesi (totale): 5.0
 
@@ -232,11 +232,11 @@ Gol attesi: 1.74 - 1.33 · Corner attesi (totale): 8.6 · Cartellini attesi (tot
 
 | Mercato | Probabilita' modello | Quota mercato | Prob. implicita quota | Edge stimato |
 |---|---|---|---|---|
+| 1 (vittoria casa) | 28.0% | - | - | - |
+| X (pareggio) | 21.7% | - | - | - |
+| 2 (vittoria trasferta) | 50.4% | - | - | - |
 | Under 2.5 gol | 33.1% | - | - | - |
 | Over 2.5 gol | 66.8% | - | - | - |
-| 2 (vittoria trasferta) | 50.4% | - | - | - |
-| X (pareggio) | 21.7% | - | - | - |
-| 1 (vittoria casa) | 28.0% | - | - | - |
 
 Gol attesi: 1.45 - 2.00 · Corner attesi (totale): 13.0 · Cartellini attesi (totale): 5.3
 
@@ -245,11 +245,11 @@ Gol attesi: 1.45 - 2.00 · Corner attesi (totale): 13.0 · Cartellini attesi (to
 
 | Mercato | Probabilita' modello | Quota mercato | Prob. implicita quota | Edge stimato |
 |---|---|---|---|---|
+| 1 (vittoria casa) | 13.2% | - | - | - |
 | Under 2.5 gol | 27.2% | - | - | - |
 | Over 2.5 gol | 72.9% | - | - | - |
 | 2 (vittoria trasferta) | 70.7% | - | - | - |
 | X (pareggio) | 15.9% | - | - | - |
-| 1 (vittoria casa) | 13.2% | - | - | - |
 
 Gol attesi: 1.11 - 2.69 · Corner attesi (totale): 11.6 · Cartellini attesi (totale): 4.1
 
@@ -260,7 +260,7 @@ Gol attesi: 1.11 - 2.69 · Corner attesi (totale): 11.6 · Cartellini attesi (to
 |---|---|---|---|---|
 | Under 2.5 gol | 46.7% | 2.04 | 49.0% | -2.3% |
 | Over 2.5 gol | 53.3% | 1.96 | 51.0% | +2.2% |
-| 2 (vittoria trasferta) | 22.8% | 5.30 | 18.9% | +3.9% |
+| 2 (vittoria trasferta) | 22.8% | 5.40 | 18.5% | +4.2% |
 | X (pareggio) | 23.5% | 4.00 | 25.0% | -1.5% |
 | 1 (vittoria casa) | 53.7% | 1.79 | 55.9% | -2.2% |
 

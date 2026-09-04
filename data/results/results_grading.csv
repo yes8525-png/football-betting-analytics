@@ -149,3 +149,28 @@ bc312b49,2026-09-04T22:53:37.251514,560566,Premier League,Ipswich Town FC,Liverp
 a1e8132c,2026-09-04T22:53:37.251514,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Away,0.3989,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0,1.0,2.0,True
 2e841ab1,2026-09-04T22:53:37.251514,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Over 2.5 goals,0.7223,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0,1.0,2.0,True
 fc0a2115,2026-09-04T22:53:37.251514,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Under 2.5 goals,0.2777,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0,1.0,2.0,False
+760a09c2,2026-09-04T23:09:54.230332,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,1X2 - Home,0.567,,,,2.93,2.02,10.3,4.27,poisson_baseline_v0,4.0,1.0,True
+ada80ee7,2026-09-04T23:09:54.230332,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,1X2 - Draw,0.171,,,,2.93,2.02,10.3,4.27,poisson_baseline_v0,4.0,1.0,False
+0aae8066,2026-09-04T23:09:54.230332,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,1X2 - Away,0.2585,,,,2.93,2.02,10.3,4.27,poisson_baseline_v0,4.0,1.0,False
+0616f899,2026-09-04T23:09:54.230332,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,Over 2.5 goals,0.868,,,,2.93,2.02,10.3,4.27,poisson_baseline_v0,4.0,1.0,True
+69f8bedc,2026-09-04T23:09:54.230332,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,Under 2.5 goals,0.132,,,,2.93,2.02,10.3,4.27,poisson_baseline_v0,4.0,1.0,False
+05f54982,2026-09-04T23:09:54.230332,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,1X2 - Home,0.0875,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0,1.0,4.0,False
+e2e8a026,2026-09-04T23:09:54.230332,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,1X2 - Draw,0.2182,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0,1.0,4.0,False
+581a304f,2026-09-04T23:09:54.230332,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,1X2 - Away,0.6942,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0,1.0,4.0,True
+e929bc86,2026-09-04T23:09:54.230332,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,Over 2.5 goals,0.3701,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0,1.0,4.0,True
+b542d788,2026-09-04T23:09:54.230332,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,Under 2.5 goals,0.6299,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0,1.0,4.0,False
+dcd2e252,2026-09-04T23:09:54.230332,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,1X2 - Home,0.104,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0,1.0,0.0,True
+35af62de,2026-09-04T23:09:54.230332,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,1X2 - Draw,0.1453,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0,1.0,0.0,False
+2fa523ed,2026-09-04T23:09:54.230332,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,1X2 - Away,0.7485,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0,1.0,0.0,False
+a9a1bc97,2026-09-04T23:09:54.230332,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,Over 2.5 goals,0.7169,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0,1.0,0.0,False
+c8160942,2026-09-04T23:09:54.230332,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,Under 2.5 goals,0.2831,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0,1.0,0.0,True
+74a64475,2026-09-04T23:09:54.230332,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,1X2 - Home,0.0742,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0,0.0,2.0,False
+50c2cda0,2026-09-04T23:09:54.230332,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,1X2 - Draw,0.105,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0,0.0,2.0,False
+05ee6e31,2026-09-04T23:09:54.230332,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,1X2 - Away,0.811,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0,0.0,2.0,True
+231ff1e4,2026-09-04T23:09:54.230332,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,Over 2.5 goals,0.8235,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0,0.0,2.0,False
+e3f353d3,2026-09-04T23:09:54.230332,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,Under 2.5 goals,0.1765,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0,0.0,2.0,True
+3d950dd5,2026-09-04T23:09:54.230332,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Home,0.3863,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0,1.0,2.0,False
+608d6d00,2026-09-04T23:09:54.230332,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Draw,0.2145,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0,1.0,2.0,False
+f295cb25,2026-09-04T23:09:54.230332,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Away,0.3989,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0,1.0,2.0,True
+a880f5a2,2026-09-04T23:09:54.230332,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Over 2.5 goals,0.7223,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0,1.0,2.0,True
+2c1ece69,2026-09-04T23:09:54.230332,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Under 2.5 goals,0.2777,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0,1.0,2.0,False

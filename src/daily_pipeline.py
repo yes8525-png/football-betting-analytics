@@ -6,6 +6,7 @@
 4. (Fase 2) Volumi Betfair.
 5. Genera previsioni con il modello baseline e le registra PRIMA del calcio d'inizio.
 6. Gradua le previsioni delle partite gia' concluse.
+7. Genera un riepilogo leggibile in Markdown delle previsioni in programma.
 
 Ogni step e' avvolto in try/except: se una fonte fallisce (chiave mancante, rate limit, sito giu'),
 il resto della pipeline continua comunque.
@@ -19,6 +20,7 @@ import fetch_odds
 import fetch_betfair
 import predictions
 import grading
+import report
 
 
 def run():
@@ -62,6 +64,12 @@ def run():
         grading.grade()
     except Exception as e:
         print(f"! step grading fallito: {e}", file=sys.stderr)
+
+    print("== 7. Report leggibile (data/predictions/report_oggi.md) ==")
+    try:
+        report.build_report()
+    except Exception as e:
+        print(f"! step report fallito: {e}", file=sys.stderr)
 
     print("== Fine pipeline giornaliera ==")
 

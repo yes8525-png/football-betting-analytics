@@ -10,8 +10,11 @@ ODDS_DIR = DATA_DIR / "odds"
 BETFAIR_DIR = DATA_DIR / "betfair"
 PREDICTIONS_DIR = DATA_DIR / "predictions"
 RESULTS_DIR = DATA_DIR / "results"
+# Cartella riconosciuta da GitHub Pages (repo pubblico -> Settings/Pages -> Source: /docs):
+# qui viene pubblicata la versione HTML del report, come index.html, con un link fisso.
+DOCS_DIR = ROOT / "docs"
 
-for d in (HISTORICAL_DIR, FIXTURES_DIR, ODDS_DIR, BETFAIR_DIR, PREDICTIONS_DIR, RESULTS_DIR):
+for d in (HISTORICAL_DIR, FIXTURES_DIR, ODDS_DIR, BETFAIR_DIR, PREDICTIONS_DIR, RESULTS_DIR, DOCS_DIR):
     d.mkdir(parents=True, exist_ok=True)
 
 # Chiavi API: lette da variabili d'ambiente (settate come GitHub Actions secrets in produzione).

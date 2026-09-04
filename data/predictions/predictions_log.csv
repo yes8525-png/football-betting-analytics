@@ -179,3 +179,133 @@ aeda2c3e,2026-09-03T10:30:10.881538,559697,Ligue 1,Paris Saint-Germain FC,AS Mon
 29354ac9,2026-09-03T10:30:10.881538,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Away,0.399,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
 60e7bc0f,2026-09-03T10:30:10.881538,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Over 2.5 goals,0.7221,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
 1ae8637c,2026-09-03T10:30:10.881538,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Under 2.5 goals,0.2779,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
+f8a9e5ed,2026-09-04T10:18:23.023933,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,1X2 - Home,0.567,1.52,0.6579,-0.0909,2.93,2.02,10.3,4.27,poisson_baseline_v0
+eb1c9b0c,2026-09-04T10:18:23.023933,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,1X2 - Draw,0.171,5.3,0.1887,-0.0177,2.93,2.02,10.3,4.27,poisson_baseline_v0
+f7c22151,2026-09-04T10:18:23.023933,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,1X2 - Away,0.2585,6.4,0.1562,0.1023,2.93,2.02,10.3,4.27,poisson_baseline_v0
+7ea1ea15,2026-09-04T10:18:23.023933,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,Over 2.5 goals,0.868,1.98,0.5051,0.3629,2.93,2.02,10.3,4.27,poisson_baseline_v0
+020fff3f,2026-09-04T10:18:23.023933,565791,Bundesliga,VfB Stuttgart,1. FC Köln,2026-09-04T18:30:00Z,Under 2.5 goals,0.132,3.15,0.3175,-0.1855,2.93,2.02,10.3,4.27,poisson_baseline_v0
+9954a45c,2026-09-04T10:18:23.023933,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,1X2 - Home,0.0875,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0
+73b1f985,2026-09-04T10:18:23.023933,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,1X2 - Draw,0.2182,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0
+1c9705ea,2026-09-04T10:18:23.023933,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,1X2 - Away,0.6942,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0
+f1116ede,2026-09-04T10:18:23.023933,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,Over 2.5 goals,0.3701,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0
+4a3b255c,2026-09-04T10:18:23.023933,558609,Serie A,Genoa CFC,Como 1907,2026-09-04T18:45:00Z,Under 2.5 goals,0.6299,,,,0.44,1.74,8.13,2.6,poisson_baseline_v0
+787fbf18,2026-09-04T10:18:23.023933,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,1X2 - Home,0.104,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0
+d73d80a7,2026-09-04T10:18:23.023933,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,1X2 - Draw,0.1453,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0
+c05b0902,2026-09-04T10:18:23.023933,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,1X2 - Away,0.7485,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0
+c1493188,2026-09-04T10:18:23.023933,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,Over 2.5 goals,0.7169,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0
+ea93cfb6,2026-09-04T10:18:23.023933,564667,Primera Division,Real Betis Balompié,Real Madrid CF,2026-09-04T19:00:00Z,Under 2.5 goals,0.2831,,,,0.96,2.77,9.6,3.67,poisson_baseline_v0
+43a5ea49,2026-09-04T10:18:23.023933,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,1X2 - Home,0.0742,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0
+5fa30210,2026-09-04T10:18:23.023933,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,1X2 - Draw,0.105,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0
+adb57327,2026-09-04T10:18:23.023933,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,1X2 - Away,0.811,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0
+8e7850d0,2026-09-04T10:18:23.023933,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,Over 2.5 goals,0.8235,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0
+457352ab,2026-09-04T10:18:23.023933,560566,Premier League,Ipswich Town FC,Liverpool FC,2026-09-04T19:00:00Z,Under 2.5 goals,0.1765,,,,1.07,3.49,10.37,3.67,poisson_baseline_v0
+8f50d706,2026-09-04T10:18:23.023933,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Home,0.3863,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
+10a8db06,2026-09-04T10:18:23.023933,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Draw,0.2145,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
+deacef35,2026-09-04T10:18:23.023933,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Away,0.3989,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
+13a9cc00,2026-09-04T10:18:23.023933,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Over 2.5 goals,0.7223,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
+176f3eb8,2026-09-04T10:18:23.023933,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Under 2.5 goals,0.2777,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0
+b6d82ff1,2026-09-04T10:18:23.023933,560571,Premier League,Newcastle United FC,AFC Bournemouth,2026-09-05T11:30:00Z,1X2 - Home,0.2255,,,,0.82,1.36,10.33,4.8,poisson_baseline_v0
+016f2364,2026-09-04T10:18:23.023933,560571,Premier League,Newcastle United FC,AFC Bournemouth,2026-09-05T11:30:00Z,1X2 - Draw,0.2792,,,,0.82,1.36,10.33,4.8,poisson_baseline_v0
+fc93e486,2026-09-04T10:18:23.023933,560571,Premier League,Newcastle United FC,AFC Bournemouth,2026-09-05T11:30:00Z,1X2 - Away,0.4953,,,,0.82,1.36,10.33,4.8,poisson_baseline_v0
+5f0d6275,2026-09-04T10:18:23.023933,560571,Premier League,Newcastle United FC,AFC Bournemouth,2026-09-05T11:30:00Z,Over 2.5 goals,0.3708,,,,0.82,1.36,10.33,4.8,poisson_baseline_v0
+21850579,2026-09-04T10:18:23.023933,560571,Premier League,Newcastle United FC,AFC Bournemouth,2026-09-05T11:30:00Z,Under 2.5 goals,0.6292,,,,0.82,1.36,10.33,4.8,poisson_baseline_v0
+11d405d5,2026-09-04T10:18:23.023933,558616,Serie A,ACF Fiorentina,Torino FC,2026-09-05T13:00:00Z,1X2 - Home,0.2362,,,,0.84,1.33,8.57,4.07,poisson_baseline_v0
+bca4af16,2026-09-04T10:18:23.023933,558616,Serie A,ACF Fiorentina,Torino FC,2026-09-05T13:00:00Z,1X2 - Draw,0.2821,,,,0.84,1.33,8.57,4.07,poisson_baseline_v0
+5d7a9d91,2026-09-04T10:18:23.023933,558616,Serie A,ACF Fiorentina,Torino FC,2026-09-05T13:00:00Z,1X2 - Away,0.4817,,,,0.84,1.33,8.57,4.07,poisson_baseline_v0
+6888d84e,2026-09-04T10:18:23.023933,558616,Serie A,ACF Fiorentina,Torino FC,2026-09-05T13:00:00Z,Over 2.5 goals,0.3694,,,,0.84,1.33,8.57,4.07,poisson_baseline_v0
+af4c92a3,2026-09-04T10:18:23.023933,558616,Serie A,ACF Fiorentina,Torino FC,2026-09-05T13:00:00Z,Under 2.5 goals,0.6306,,,,0.84,1.33,8.57,4.07,poisson_baseline_v0
+6fc7d8c5,2026-09-04T10:18:23.023933,565785,Bundesliga,SV Werder Bremen,RB Leipzig,2026-09-05T13:30:00Z,1X2 - Home,0.0987,,,,0.81,2.53,9.27,4.0,poisson_baseline_v0
+1888d777,2026-09-04T10:18:23.023933,565785,Bundesliga,SV Werder Bremen,RB Leipzig,2026-09-05T13:30:00Z,1X2 - Draw,0.1551,,,,0.81,2.53,9.27,4.0,poisson_baseline_v0
+7bd67efc,2026-09-04T10:18:23.023933,565785,Bundesliga,SV Werder Bremen,RB Leipzig,2026-09-05T13:30:00Z,1X2 - Away,0.745,,,,0.81,2.53,9.27,4.0,poisson_baseline_v0
+a0081b33,2026-09-04T10:18:23.023933,565785,Bundesliga,SV Werder Bremen,RB Leipzig,2026-09-05T13:30:00Z,Over 2.5 goals,0.6479,,,,0.81,2.53,9.27,4.0,poisson_baseline_v0
+0104935f,2026-09-04T10:18:23.023933,565785,Bundesliga,SV Werder Bremen,RB Leipzig,2026-09-05T13:30:00Z,Under 2.5 goals,0.3521,,,,0.81,2.53,9.27,4.0,poisson_baseline_v0
+23eb10a8,2026-09-04T10:18:23.023933,565793,Bundesliga,SC Paderborn 07,SC Freiburg,2026-09-05T13:30:00Z,1X2 - Home,0.1105,,,,0.76,2.26,9.9,4.13,poisson_baseline_v0
+b8580571,2026-09-04T10:18:23.023933,565793,Bundesliga,SC Paderborn 07,SC Freiburg,2026-09-05T13:30:00Z,1X2 - Draw,0.1764,,,,0.76,2.26,9.9,4.13,poisson_baseline_v0
+ca1237cc,2026-09-04T10:18:23.023933,565793,Bundesliga,SC Paderborn 07,SC Freiburg,2026-09-05T13:30:00Z,1X2 - Away,0.7125,,,,0.76,2.26,9.9,4.13,poisson_baseline_v0
+ebaa4a16,2026-09-04T10:18:23.023933,565793,Bundesliga,SC Paderborn 07,SC Freiburg,2026-09-05T13:30:00Z,Over 2.5 goals,0.5812,,,,0.76,2.26,9.9,4.13,poisson_baseline_v0
+6cfd114c,2026-09-04T10:18:23.023933,565793,Bundesliga,SC Paderborn 07,SC Freiburg,2026-09-05T13:30:00Z,Under 2.5 goals,0.4188,,,,0.76,2.26,9.9,4.13,poisson_baseline_v0
+7e7a788b,2026-09-04T10:18:23.023933,565790,Bundesliga,Bayer 04 Leverkusen,1. FC Union Berlin,2026-09-05T13:30:00Z,1X2 - Home,0.5179,,,,2.21,1.59,9.63,3.87,poisson_baseline_v0
+ba11116a,2026-09-04T10:18:23.023933,565790,Bundesliga,Bayer 04 Leverkusen,1. FC Union Berlin,2026-09-05T13:30:00Z,1X2 - Draw,0.2041,,,,2.21,1.59,9.63,3.87,poisson_baseline_v0
+ae18889a,2026-09-04T10:18:23.023933,565790,Bundesliga,Bayer 04 Leverkusen,1. FC Union Berlin,2026-09-05T13:30:00Z,1X2 - Away,0.2775,,,,2.21,1.59,9.63,3.87,poisson_baseline_v0
+7f241194,2026-09-04T10:18:23.023933,565790,Bundesliga,Bayer 04 Leverkusen,1. FC Union Berlin,2026-09-05T13:30:00Z,Over 2.5 goals,0.7295,,,,2.21,1.59,9.63,3.87,poisson_baseline_v0
+8c58152b,2026-09-04T10:18:23.023933,565790,Bundesliga,Bayer 04 Leverkusen,1. FC Union Berlin,2026-09-05T13:30:00Z,Under 2.5 goals,0.2705,,,,2.21,1.59,9.63,3.87,poisson_baseline_v0
+0e3adc8b,2026-09-04T10:18:23.023933,565792,Bundesliga,Borussia Mönchengladbach,SV 07 Elversberg,2026-09-05T13:30:00Z,1X2 - Home,0.1259,,,,1.37,3.25,7.4,5.6,poisson_baseline_v0
+b76687c9,2026-09-04T10:18:23.023933,565792,Bundesliga,Borussia Mönchengladbach,SV 07 Elversberg,2026-09-05T13:30:00Z,1X2 - Draw,0.135,,,,1.37,3.25,7.4,5.6,poisson_baseline_v0
+29f24d99,2026-09-04T10:18:23.023933,565792,Bundesliga,Borussia Mönchengladbach,SV 07 Elversberg,2026-09-05T13:30:00Z,1X2 - Away,0.7328,,,,1.37,3.25,7.4,5.6,poisson_baseline_v0
+c280b79c,2026-09-04T10:18:23.023933,565792,Bundesliga,Borussia Mönchengladbach,SV 07 Elversberg,2026-09-05T13:30:00Z,Over 2.5 goals,0.8333,,,,1.37,3.25,7.4,5.6,poisson_baseline_v0
+49dac221,2026-09-04T10:18:23.023933,565792,Bundesliga,Borussia Mönchengladbach,SV 07 Elversberg,2026-09-05T13:30:00Z,Under 2.5 goals,0.1667,,,,1.37,3.25,7.4,5.6,poisson_baseline_v0
+739d081c,2026-09-04T10:18:23.023933,565787,Bundesliga,TSG 1899 Hoffenheim,Borussia Dortmund,2026-09-05T13:30:00Z,1X2 - Home,0.0766,,,,0.91,3.11,9.7,4.67,poisson_baseline_v0
+a612fe2c,2026-09-04T10:18:23.023933,565787,Bundesliga,TSG 1899 Hoffenheim,Borussia Dortmund,2026-09-05T13:30:00Z,1X2 - Draw,0.1183,,,,0.91,3.11,9.7,4.67,poisson_baseline_v0
+3f22b98c,2026-09-04T10:18:23.023933,565787,Bundesliga,TSG 1899 Hoffenheim,Borussia Dortmund,2026-09-05T13:30:00Z,1X2 - Away,0.8003,,,,0.91,3.11,9.7,4.67,poisson_baseline_v0
+9eab361d,2026-09-04T10:18:23.023933,565787,Bundesliga,TSG 1899 Hoffenheim,Borussia Dortmund,2026-09-05T13:30:00Z,Over 2.5 goals,0.7612,,,,0.91,3.11,9.7,4.67,poisson_baseline_v0
+cb00fc8c,2026-09-04T10:18:23.023933,565787,Bundesliga,TSG 1899 Hoffenheim,Borussia Dortmund,2026-09-05T13:30:00Z,Under 2.5 goals,0.2388,,,,0.91,3.11,9.7,4.67,poisson_baseline_v0
+8b2dba01,2026-09-04T10:18:23.023933,560565,Premier League,Brentford FC,Sunderland AFC,2026-09-05T14:00:00Z,1X2 - Home,0.3833,,,,1.2,1.1,10.27,3.93,poisson_baseline_v0
+1b8c8220,2026-09-04T10:18:23.023933,560565,Premier League,Brentford FC,Sunderland AFC,2026-09-05T14:00:00Z,1X2 - Draw,0.2832,,,,1.2,1.1,10.27,3.93,poisson_baseline_v0
+2328e04b,2026-09-04T10:18:23.023933,560565,Premier League,Brentford FC,Sunderland AFC,2026-09-05T14:00:00Z,1X2 - Away,0.3335,,,,1.2,1.1,10.27,3.93,poisson_baseline_v0
+32f62120,2026-09-04T10:18:23.023933,560565,Premier League,Brentford FC,Sunderland AFC,2026-09-05T14:00:00Z,Over 2.5 goals,0.404,,,,1.2,1.1,10.27,3.93,poisson_baseline_v0
+0443a6be,2026-09-04T10:18:23.023933,560565,Premier League,Brentford FC,Sunderland AFC,2026-09-05T14:00:00Z,Under 2.5 goals,0.596,,,,1.2,1.1,10.27,3.93,poisson_baseline_v0
+d4c66594,2026-09-04T10:18:23.023933,560568,Premier League,Fulham FC,Crystal Palace FC,2026-09-05T14:00:00Z,1X2 - Home,0.3867,,,,1.12,0.98,10.03,3.8,poisson_baseline_v0
+78c4babd,2026-09-04T10:18:23.023933,560568,Premier League,Fulham FC,Crystal Palace FC,2026-09-05T14:00:00Z,1X2 - Draw,0.2985,,,,1.12,0.98,10.03,3.8,poisson_baseline_v0
+aee47c37,2026-09-04T10:18:23.023933,560568,Premier League,Fulham FC,Crystal Palace FC,2026-09-05T14:00:00Z,1X2 - Away,0.3149,,,,1.12,0.98,10.03,3.8,poisson_baseline_v0
+d840cacf,2026-09-04T10:18:23.023933,560568,Premier League,Fulham FC,Crystal Palace FC,2026-09-05T14:00:00Z,Over 2.5 goals,0.3506,,,,1.12,0.98,10.03,3.8,poisson_baseline_v0
+efc0ec50,2026-09-04T10:18:23.023933,560568,Premier League,Fulham FC,Crystal Palace FC,2026-09-05T14:00:00Z,Under 2.5 goals,0.6494,,,,1.12,0.98,10.03,3.8,poisson_baseline_v0
+c65af8e6,2026-09-04T10:18:23.023933,560563,Premier League,Manchester City FC,Coventry City FC,2026-09-05T14:00:00Z,1X2 - Home,0.7644,,,,2.74,0.87,10.37,2.6,poisson_baseline_v0
+78b0d6e6,2026-09-04T10:18:23.023933,560563,Premier League,Manchester City FC,Coventry City FC,2026-09-05T14:00:00Z,1X2 - Draw,0.1413,,,,2.74,0.87,10.37,2.6,poisson_baseline_v0
+7b603b62,2026-09-04T10:18:23.023933,560563,Premier League,Manchester City FC,Coventry City FC,2026-09-05T14:00:00Z,1X2 - Away,0.0922,,,,2.74,0.87,10.37,2.6,poisson_baseline_v0
+e921f3a3,2026-09-04T10:18:23.023933,560563,Premier League,Manchester City FC,Coventry City FC,2026-09-05T14:00:00Z,Over 2.5 goals,0.697,,,,2.74,0.87,10.37,2.6,poisson_baseline_v0
+29097054,2026-09-04T10:18:23.023933,560563,Premier League,Manchester City FC,Coventry City FC,2026-09-05T14:00:00Z,Under 2.5 goals,0.303,,,,2.74,0.87,10.37,2.6,poisson_baseline_v0
+d9bdb1a7,2026-09-04T10:18:23.023933,560564,Premier League,Brighton & Hove Albion FC,Leeds United FC,2026-09-05T14:00:00Z,1X2 - Home,0.3494,,,,1.0,0.98,10.03,3.93,poisson_baseline_v0
+315fc12b,2026-09-04T10:18:23.023933,560564,Premier League,Brighton & Hove Albion FC,Leeds United FC,2026-09-05T14:00:00Z,1X2 - Draw,0.31,,,,1.0,0.98,10.03,3.93,poisson_baseline_v0
+8c00a136,2026-09-04T10:18:23.023933,560564,Premier League,Brighton & Hove Albion FC,Leeds United FC,2026-09-05T14:00:00Z,1X2 - Away,0.3407,,,,1.0,0.98,10.03,3.93,poisson_baseline_v0
+998da2ac,2026-09-04T10:18:23.023933,560564,Premier League,Brighton & Hove Albion FC,Leeds United FC,2026-09-05T14:00:00Z,Over 2.5 goals,0.3191,,,,1.0,0.98,10.03,3.93,poisson_baseline_v0
+433ba0c6,2026-09-04T10:18:23.023933,560564,Premier League,Brighton & Hove Albion FC,Leeds United FC,2026-09-05T14:00:00Z,Under 2.5 goals,0.6809,,,,1.0,0.98,10.03,3.93,poisson_baseline_v0
+50496b27,2026-09-04T10:18:23.023933,560562,Premier League,Nottingham Forest FC,Tottenham Hotspur FC,2026-09-05T14:00:00Z,1X2 - Home,0.6629,,,,1.93,0.71,9.93,4.47,poisson_baseline_v0
+8f1d69c8,2026-09-04T10:18:23.023933,560562,Premier League,Nottingham Forest FC,Tottenham Hotspur FC,2026-09-05T14:00:00Z,1X2 - Draw,0.2082,,,,1.93,0.71,9.93,4.47,poisson_baseline_v0
+afcadb1a,2026-09-04T10:18:23.023933,560562,Premier League,Nottingham Forest FC,Tottenham Hotspur FC,2026-09-05T14:00:00Z,1X2 - Away,0.1288,,,,1.93,0.71,9.93,4.47,poisson_baseline_v0
+b37b09fe,2026-09-04T10:18:23.023933,560562,Premier League,Nottingham Forest FC,Tottenham Hotspur FC,2026-09-05T14:00:00Z,Over 2.5 goals,0.4908,,,,1.93,0.71,9.93,4.47,poisson_baseline_v0
+df5d4878,2026-09-04T10:18:23.023933,560562,Premier League,Nottingham Forest FC,Tottenham Hotspur FC,2026-09-05T14:00:00Z,Under 2.5 goals,0.5092,,,,1.93,0.71,9.93,4.47,poisson_baseline_v0
+b8bd1689,2026-09-04T10:18:23.023933,564663,Primera Division,Athletic Club,Club Atlético de Madrid,2026-09-05T14:15:00Z,1X2 - Home,0.1327,,,,1.17,2.8,10.6,5.13,poisson_baseline_v0
+49084bfd,2026-09-04T10:18:23.023933,564663,Primera Division,Athletic Club,Club Atlético de Madrid,2026-09-05T14:15:00Z,1X2 - Draw,0.1539,,,,1.17,2.8,10.6,5.13,poisson_baseline_v0
+a7a4f6c5,2026-09-04T10:18:23.023933,564663,Primera Division,Athletic Club,Club Atlético de Madrid,2026-09-05T14:15:00Z,1X2 - Away,0.711,,,,1.17,2.8,10.6,5.13,poisson_baseline_v0
+c911fa32,2026-09-04T10:18:23.023933,564663,Primera Division,Athletic Club,Club Atlético de Madrid,2026-09-05T14:15:00Z,Over 2.5 goals,0.7556,,,,1.17,2.8,10.6,5.13,poisson_baseline_v0
+77212327,2026-09-04T10:18:23.023933,564663,Primera Division,Athletic Club,Club Atlético de Madrid,2026-09-05T14:15:00Z,Under 2.5 goals,0.2444,,,,1.17,2.8,10.6,5.13,poisson_baseline_v0
+64300271,2026-09-04T10:18:23.023933,559695,Ligue 1,Racing Club de Lens,FC Lorient,2026-09-05T15:15:00Z,1X2 - Home,0.4593,,,,2.06,1.74,10.33,3.07,poisson_baseline_v0
+8e115d31,2026-09-04T10:18:23.023933,559695,Ligue 1,Racing Club de Lens,FC Lorient,2026-09-05T15:15:00Z,1X2 - Draw,0.2103,,,,2.06,1.74,10.33,3.07,poisson_baseline_v0
+69df826f,2026-09-04T10:18:23.023933,559695,Ligue 1,Racing Club de Lens,FC Lorient,2026-09-05T15:15:00Z,1X2 - Away,0.33,,,,2.06,1.74,10.33,3.07,poisson_baseline_v0
+476dd1f0,2026-09-04T10:18:23.023933,559695,Ligue 1,Racing Club de Lens,FC Lorient,2026-09-05T15:15:00Z,Over 2.5 goals,0.7307,,,,2.06,1.74,10.33,3.07,poisson_baseline_v0
+c2f721bb,2026-09-04T10:18:23.023933,559695,Ligue 1,Racing Club de Lens,FC Lorient,2026-09-05T15:15:00Z,Under 2.5 goals,0.2693,,,,2.06,1.74,10.33,3.07,poisson_baseline_v0
+31dd1a02,2026-09-04T10:18:23.023933,558614,Serie A,FC Internazionale Milano,SSC Napoli,2026-09-05T16:00:00Z,1X2 - Home,0.3981,,,,1.35,1.21,9.0,2.87,poisson_baseline_v0
+16df6c20,2026-09-04T10:18:23.023933,558614,Serie A,FC Internazionale Milano,SSC Napoli,2026-09-05T16:00:00Z,1X2 - Draw,0.2656,,,,1.35,1.21,9.0,2.87,poisson_baseline_v0
+721c69f5,2026-09-04T10:18:23.023933,558614,Serie A,FC Internazionale Milano,SSC Napoli,2026-09-05T16:00:00Z,1X2 - Away,0.3363,,,,1.35,1.21,9.0,2.87,poisson_baseline_v0
+c19e76a7,2026-09-04T10:18:23.023933,558614,Serie A,FC Internazionale Milano,SSC Napoli,2026-09-05T16:00:00Z,Over 2.5 goals,0.4714,,,,1.35,1.21,9.0,2.87,poisson_baseline_v0
+d5d36d05,2026-09-04T10:18:23.023933,558614,Serie A,FC Internazionale Milano,SSC Napoli,2026-09-05T16:00:00Z,Under 2.5 goals,0.5286,,,,1.35,1.21,9.0,2.87,poisson_baseline_v0
+cb937792,2026-09-04T10:18:23.023933,564660,Primera Division,Rayo Vallecano de Madrid,Real Racing Club de Santander,2026-09-05T16:30:00Z,1X2 - Home,0.2795,,,,1.45,2.0,12.97,5.27,poisson_baseline_v0
+5d861036,2026-09-04T10:18:23.023933,564660,Primera Division,Rayo Vallecano de Madrid,Real Racing Club de Santander,2026-09-05T16:30:00Z,1X2 - Draw,0.2167,,,,1.45,2.0,12.97,5.27,poisson_baseline_v0
+cfa83d4d,2026-09-04T10:18:23.023933,564660,Primera Division,Rayo Vallecano de Madrid,Real Racing Club de Santander,2026-09-05T16:30:00Z,1X2 - Away,0.5036,,,,1.45,2.0,12.97,5.27,poisson_baseline_v0
+05e26e53,2026-09-04T10:18:23.023933,564660,Primera Division,Rayo Vallecano de Madrid,Real Racing Club de Santander,2026-09-05T16:30:00Z,Over 2.5 goals,0.6685,,,,1.45,2.0,12.97,5.27,poisson_baseline_v0
+2ed9b48b,2026-09-04T10:18:23.023933,564660,Primera Division,Rayo Vallecano de Madrid,Real Racing Club de Santander,2026-09-05T16:30:00Z,Under 2.5 goals,0.3315,,,,1.45,2.0,12.97,5.27,poisson_baseline_v0
+fb0c2860,2026-09-04T10:18:23.023933,565789,Bundesliga,FC Schalke 04,FC Bayern München,2026-09-05T16:30:00Z,1X2 - Home,0.0169,,,,1.01,5.49,11.03,3.67,poisson_baseline_v0
+288447a9,2026-09-04T10:18:23.023933,565789,Bundesliga,FC Schalke 04,FC Bayern München,2026-09-05T16:30:00Z,1X2 - Draw,0.0318,,,,1.01,5.49,11.03,3.67,poisson_baseline_v0
+40596579,2026-09-04T10:18:23.023933,565789,Bundesliga,FC Schalke 04,FC Bayern München,2026-09-05T16:30:00Z,1X2 - Away,0.8466,,,,1.01,5.49,11.03,3.67,poisson_baseline_v0
+0f2ae57f,2026-09-04T10:18:23.023933,565789,Bundesliga,FC Schalke 04,FC Bayern München,2026-09-05T16:30:00Z,Over 2.5 goals,0.8523,,,,1.01,5.49,11.03,3.67,poisson_baseline_v0
+c5bf9c8d,2026-09-04T10:18:23.023933,565789,Bundesliga,FC Schalke 04,FC Bayern München,2026-09-05T16:30:00Z,Under 2.5 goals,0.1477,,,,1.01,5.49,11.03,3.67,poisson_baseline_v0
+bef918ea,2026-09-04T10:18:23.023933,560569,Premier League,Hull City AFC,Aston Villa FC,2026-09-05T16:30:00Z,1X2 - Home,0.4698,,,,1.74,1.33,8.62,5.0,poisson_baseline_v0
+cb9f3cce,2026-09-04T10:18:23.023933,560569,Premier League,Hull City AFC,Aston Villa FC,2026-09-05T16:30:00Z,1X2 - Draw,0.2347,,,,1.74,1.33,8.62,5.0,poisson_baseline_v0
+eb97d5cb,2026-09-04T10:18:23.023933,560569,Premier League,Hull City AFC,Aston Villa FC,2026-09-05T16:30:00Z,1X2 - Away,0.2954,,,,1.74,1.33,8.62,5.0,poisson_baseline_v0
+cd81701d,2026-09-04T10:18:23.023933,560569,Premier League,Hull City AFC,Aston Villa FC,2026-09-05T16:30:00Z,Over 2.5 goals,0.5922,,,,1.74,1.33,8.62,5.0,poisson_baseline_v0
+39d88e02,2026-09-04T10:18:23.023933,560569,Premier League,Hull City AFC,Aston Villa FC,2026-09-05T16:30:00Z,Under 2.5 goals,0.4078,,,,1.74,1.33,8.62,5.0,poisson_baseline_v0
+4bd38107,2026-09-04T10:18:23.023933,559701,Ligue 1,OGC Nice,Le Mans FC,2026-09-05T18:45:00Z,1X2 - Home,0.1322,,,,1.11,2.69,11.58,4.1,poisson_baseline_v0
+fc7fc90b,2026-09-04T10:18:23.023933,559701,Ligue 1,OGC Nice,Le Mans FC,2026-09-05T18:45:00Z,1X2 - Draw,0.1589,,,,1.11,2.69,11.58,4.1,poisson_baseline_v0
+906edcdd,2026-09-04T10:18:23.023933,559701,Ligue 1,OGC Nice,Le Mans FC,2026-09-05T18:45:00Z,1X2 - Away,0.707,,,,1.11,2.69,11.58,4.1,poisson_baseline_v0
+2a513187,2026-09-04T10:18:23.023933,559701,Ligue 1,OGC Nice,Le Mans FC,2026-09-05T18:45:00Z,Over 2.5 goals,0.7285,,,,1.11,2.69,11.58,4.1,poisson_baseline_v0
+1bb0df95,2026-09-04T10:18:23.023933,559701,Ligue 1,OGC Nice,Le Mans FC,2026-09-05T18:45:00Z,Under 2.5 goals,0.2715,,,,1.11,2.69,11.58,4.1,poisson_baseline_v0
+22b04083,2026-09-04T10:18:23.023933,558611,Serie A,AS Roma,Atalanta BC,2026-09-05T18:45:00Z,1X2 - Home,0.5371,1.8,0.5556,-0.0185,1.75,1.06,8.67,3.27,poisson_baseline_v0
+9595a6c3,2026-09-04T10:18:23.023933,558611,Serie A,AS Roma,Atalanta BC,2026-09-05T18:45:00Z,1X2 - Draw,0.2354,3.95,0.2532,-0.0178,1.75,1.06,8.67,3.27,poisson_baseline_v0
+f44aa93a,2026-09-04T10:18:23.023933,558611,Serie A,AS Roma,Atalanta BC,2026-09-05T18:45:00Z,1X2 - Away,0.2275,5.3,0.1887,0.0388,1.75,1.06,8.67,3.27,poisson_baseline_v0
+67038c65,2026-09-04T10:18:23.023933,558611,Serie A,AS Roma,Atalanta BC,2026-09-05T18:45:00Z,Over 2.5 goals,0.5326,1.98,0.5051,0.0275,1.75,1.06,8.67,3.27,poisson_baseline_v0
+1e03c839,2026-09-04T10:18:23.023933,558611,Serie A,AS Roma,Atalanta BC,2026-09-05T18:45:00Z,Under 2.5 goals,0.4674,1.98,0.5051,-0.0377,1.75,1.06,8.67,3.27,poisson_baseline_v0
+848d7d4c,2026-09-04T10:18:23.023933,564662,Primera Division,Villarreal CF,RC Deportivo La Coruña,2026-09-05T19:00:00Z,1X2 - Home,0.2431,,,,1.28,2.0,10.33,4.93,poisson_baseline_v0
+baa314c1,2026-09-04T10:18:23.023933,564662,Primera Division,Villarreal CF,RC Deportivo La Coruña,2026-09-05T19:00:00Z,1X2 - Draw,0.2165,,,,1.28,2.0,10.33,4.93,poisson_baseline_v0
+35b785a5,2026-09-04T10:18:23.023933,564662,Primera Division,Villarreal CF,RC Deportivo La Coruña,2026-09-05T19:00:00Z,1X2 - Away,0.5401,,,,1.28,2.0,10.33,4.93,poisson_baseline_v0
+cc9ac34c,2026-09-04T10:18:23.023933,564662,Primera Division,Villarreal CF,RC Deportivo La Coruña,2026-09-05T19:00:00Z,Over 2.5 goals,0.6356,,,,1.28,2.0,10.33,4.93,poisson_baseline_v0
+42b4da13,2026-09-04T10:18:23.023933,564662,Primera Division,Villarreal CF,RC Deportivo La Coruña,2026-09-05T19:00:00Z,Under 2.5 goals,0.3644,,,,1.28,2.0,10.33,4.93,poisson_baseline_v0

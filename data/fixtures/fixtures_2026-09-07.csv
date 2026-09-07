@@ -1,0 +1,11 @@
+match_id,competition,competition_code,utc_date,status,home_team,away_team,home_score,away_score
+558610,Serie A,SA,2026-09-07T16:30:00Z,TIMED,Cagliari Calcio,US Lecce,,
+564665,Primera Division,PD,2026-09-07T17:00:00Z,TIMED,Getafe CF,RC Celta de Vigo,,
+558617,Serie A,SA,2026-09-07T18:45:00Z,TIMED,Udinese Calcio,SS Lazio,,
+564658,Primera Division,PD,2026-09-07T19:30:00Z,TIMED,Elche CF,Real Sociedad de Fútbol,,
+575323,UEFA Champions League,CL,2026-09-08T16:45:00Z,TIMED,Club Brugge KV,Aston Villa FC,,
+575324,UEFA Champions League,CL,2026-09-08T16:45:00Z,TIMED,PAE AEK,LASK Linz,,
+575327,UEFA Champions League,CL,2026-09-08T19:00:00Z,TIMED,Borussia Dortmund,Villarreal CF,,
+575325,UEFA Champions League,CL,2026-09-08T19:00:00Z,TIMED,Real Madrid CF,FC Internazionale Milano,,
+575328,UEFA Champions League,CL,2026-09-08T19:00:00Z,TIMED,Lille OSC,Real Betis Balompié,,
+575326,UEFA Champions League,CL,2026-09-08T19:00:00Z,TIMED,FC Porto,Manchester City FC,,

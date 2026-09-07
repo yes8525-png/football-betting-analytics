@@ -834,3 +834,23 @@ c46f6664,2026-09-06T10:01:39.812468,558617,Serie A,Udinese Calcio,SS Lazio,2026-
 b3baf819,2026-09-06T10:01:39.812468,564658,Primera Division,Elche CF,Real Sociedad de Fútbol,2026-09-07T19:30:00Z,1X2 - Away,0.5844,,,,1.43,2.37,9.23,5.6,poisson_baseline_v0
 8261c34d,2026-09-06T10:01:39.812468,564658,Primera Division,Elche CF,Real Sociedad de Fútbol,2026-09-07T19:30:00Z,Over 2.5 goals,0.73,,,,1.43,2.37,9.23,5.6,poisson_baseline_v0
 040397b5,2026-09-06T10:01:39.812468,564658,Primera Division,Elche CF,Real Sociedad de Fútbol,2026-09-07T19:30:00Z,Under 2.5 goals,0.27,,,,1.43,2.37,9.23,5.6,poisson_baseline_v0
+a494cd4d,2026-09-07T11:13:52.014689,558610,Serie A,Cagliari Calcio,US Lecce,2026-09-07T16:30:00Z,1X2 - Home,0.3457,,,,0.91,0.87,8.7,4.0,poisson_baseline_v0
+56362c1c,2026-09-07T11:13:52.014689,558610,Serie A,Cagliari Calcio,US Lecce,2026-09-07T16:30:00Z,1X2 - Draw,0.3311,,,,0.91,0.87,8.7,4.0,poisson_baseline_v0
+1b7af8d6,2026-09-07T11:13:52.014689,558610,Serie A,Cagliari Calcio,US Lecce,2026-09-07T16:30:00Z,1X2 - Away,0.3233,,,,0.91,0.87,8.7,4.0,poisson_baseline_v0
+bfa9d4c1,2026-09-07T11:13:52.014689,558610,Serie A,Cagliari Calcio,US Lecce,2026-09-07T16:30:00Z,Over 2.5 goals,0.2639,,,,0.91,0.87,8.7,4.0,poisson_baseline_v0
+ec73f6d8,2026-09-07T11:13:52.014689,558610,Serie A,Cagliari Calcio,US Lecce,2026-09-07T16:30:00Z,Under 2.5 goals,0.7361,,,,0.91,0.87,8.7,4.0,poisson_baseline_v0
+b1ce3715,2026-09-07T11:13:52.014689,564665,Primera Division,Getafe CF,RC Celta de Vigo,2026-09-07T17:00:00Z,1X2 - Home,0.3073,,,,0.8,0.88,8.4,5.87,poisson_baseline_v0
+f0a39306,2026-09-07T11:13:52.014689,564665,Primera Division,Getafe CF,RC Celta de Vigo,2026-09-07T17:00:00Z,1X2 - Draw,0.3417,,,,0.8,0.88,8.4,5.87,poisson_baseline_v0
+b3d7d7d5,2026-09-07T11:13:52.014689,564665,Primera Division,Getafe CF,RC Celta de Vigo,2026-09-07T17:00:00Z,1X2 - Away,0.351,,,,0.8,0.88,8.4,5.87,poisson_baseline_v0
+435c7552,2026-09-07T11:13:52.014689,564665,Primera Division,Getafe CF,RC Celta de Vigo,2026-09-07T17:00:00Z,Over 2.5 goals,0.2394,,,,0.8,0.88,8.4,5.87,poisson_baseline_v0
+29ca9853,2026-09-07T11:13:52.014689,564665,Primera Division,Getafe CF,RC Celta de Vigo,2026-09-07T17:00:00Z,Under 2.5 goals,0.7606,,,,0.8,0.88,8.4,5.87,poisson_baseline_v0
+f057ecec,2026-09-07T11:13:52.014689,558617,Serie A,Udinese Calcio,SS Lazio,2026-09-07T18:45:00Z,1X2 - Home,0.383,,,,0.96,0.78,9.1,4.27,poisson_baseline_v0
+4f6a0bf5,2026-09-07T11:13:52.014689,558617,Serie A,Udinese Calcio,SS Lazio,2026-09-07T18:45:00Z,1X2 - Draw,0.3341,,,,0.96,0.78,9.1,4.27,poisson_baseline_v0
+564ef88a,2026-09-07T11:13:52.014689,558617,Serie A,Udinese Calcio,SS Lazio,2026-09-07T18:45:00Z,1X2 - Away,0.2829,,,,0.96,0.78,9.1,4.27,poisson_baseline_v0
+c9684025,2026-09-07T11:13:52.014689,558617,Serie A,Udinese Calcio,SS Lazio,2026-09-07T18:45:00Z,Over 2.5 goals,0.2525,,,,0.96,0.78,9.1,4.27,poisson_baseline_v0
+21111c81,2026-09-07T11:13:52.014689,558617,Serie A,Udinese Calcio,SS Lazio,2026-09-07T18:45:00Z,Under 2.5 goals,0.7475,,,,0.96,0.78,9.1,4.27,poisson_baseline_v0
+b5e5bff4,2026-09-07T11:13:52.014689,564658,Primera Division,Elche CF,Real Sociedad de Fútbol,2026-09-07T19:30:00Z,1X2 - Home,0.2225,,,,1.43,2.37,9.23,5.6,poisson_baseline_v0
+3ecdb163,2026-09-07T11:13:52.014689,564658,Primera Division,Elche CF,Real Sociedad de Fútbol,2026-09-07T19:30:00Z,1X2 - Draw,0.1923,,,,1.43,2.37,9.23,5.6,poisson_baseline_v0
+8b28adb9,2026-09-07T11:13:52.014689,564658,Primera Division,Elche CF,Real Sociedad de Fútbol,2026-09-07T19:30:00Z,1X2 - Away,0.5844,,,,1.43,2.37,9.23,5.6,poisson_baseline_v0
+4e0ebbe4,2026-09-07T11:13:52.014689,564658,Primera Division,Elche CF,Real Sociedad de Fútbol,2026-09-07T19:30:00Z,Over 2.5 goals,0.73,,,,1.43,2.37,9.23,5.6,poisson_baseline_v0
+c49fdd2a,2026-09-07T11:13:52.014689,564658,Primera Division,Elche CF,Real Sociedad de Fútbol,2026-09-07T19:30:00Z,Under 2.5 goals,0.27,,,,1.43,2.37,9.23,5.6,poisson_baseline_v0

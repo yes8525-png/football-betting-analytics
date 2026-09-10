@@ -854,3 +854,18 @@ b5e5bff4,2026-09-07T11:13:52.014689,564658,Primera Division,Elche CF,Real Socied
 8b28adb9,2026-09-07T11:13:52.014689,564658,Primera Division,Elche CF,Real Sociedad de Fútbol,2026-09-07T19:30:00Z,1X2 - Away,0.5844,,,,1.43,2.37,9.23,5.6,poisson_baseline_v0
 4e0ebbe4,2026-09-07T11:13:52.014689,564658,Primera Division,Elche CF,Real Sociedad de Fútbol,2026-09-07T19:30:00Z,Over 2.5 goals,0.73,,,,1.43,2.37,9.23,5.6,poisson_baseline_v0
 c49fdd2a,2026-09-07T11:13:52.014689,564658,Primera Division,Elche CF,Real Sociedad de Fútbol,2026-09-07T19:30:00Z,Under 2.5 goals,0.27,,,,1.43,2.37,9.23,5.6,poisson_baseline_v0
+1e121bfc,2026-09-10T10:22:09.934285,565797,Bundesliga,1. FC Union Berlin,FC Schalke 04,2026-09-11T18:30:00Z,1X2 - Home,0.3393,,,,1.76,2.04,11.07,4.13,poisson_baseline_v0
+aefb2717,2026-09-10T10:22:09.934285,565797,Bundesliga,1. FC Union Berlin,FC Schalke 04,2026-09-11T18:30:00Z,1X2 - Draw,0.211,,,,1.76,2.04,11.07,4.13,poisson_baseline_v0
+feaf1c9b,2026-09-10T10:22:09.934285,565797,Bundesliga,1. FC Union Berlin,FC Schalke 04,2026-09-11T18:30:00Z,1X2 - Away,0.4493,,,,1.76,2.04,11.07,4.13,poisson_baseline_v0
+1cddb51d,2026-09-10T10:22:09.934285,565797,Bundesliga,1. FC Union Berlin,FC Schalke 04,2026-09-11T18:30:00Z,Over 2.5 goals,0.7307,,,,1.76,2.04,11.07,4.13,poisson_baseline_v0
+6a7cab9c,2026-09-10T10:22:09.934285,565797,Bundesliga,1. FC Union Berlin,FC Schalke 04,2026-09-11T18:30:00Z,Under 2.5 goals,0.2693,,,,1.76,2.04,11.07,4.13,poisson_baseline_v0
+56a12ba7,2026-09-10T10:22:09.934285,558606,Serie A,Venezia FC,ACF Fiorentina,2026-09-11T18:45:00Z,1X2 - Home,0.2727,,,,0.73,0.93,8.37,4.53,poisson_baseline_v0
+6912e36e,2026-09-10T10:22:09.934285,558606,Serie A,Venezia FC,ACF Fiorentina,2026-09-11T18:45:00Z,1X2 - Draw,0.3431,,,,0.73,0.93,8.37,4.53,poisson_baseline_v0
+bc3ea108,2026-09-10T10:22:09.934285,558606,Serie A,Venezia FC,ACF Fiorentina,2026-09-11T18:45:00Z,1X2 - Away,0.3842,,,,0.73,0.93,8.37,4.53,poisson_baseline_v0
+1d031b4c,2026-09-10T10:22:09.934285,558606,Serie A,Venezia FC,ACF Fiorentina,2026-09-11T18:45:00Z,Over 2.5 goals,0.2318,,,,0.73,0.93,8.37,4.53,poisson_baseline_v0
+a0bfd87c,2026-09-10T10:22:09.934285,558606,Serie A,Venezia FC,ACF Fiorentina,2026-09-11T18:45:00Z,Under 2.5 goals,0.7682,,,,0.73,0.93,8.37,4.53,poisson_baseline_v0
+aeb81202,2026-09-10T10:22:09.934285,564669,Primera Division,Sevilla FC,Valencia CF,2026-09-11T19:00:00Z,1X2 - Home,0.2968,,,,1.26,1.63,8.5,4.93,poisson_baseline_v0
+573b62dc,2026-09-10T10:22:09.934285,564669,Primera Division,Sevilla FC,Valencia CF,2026-09-11T19:00:00Z,1X2 - Draw,0.2438,,,,1.26,1.63,8.5,4.93,poisson_baseline_v0
+125cdd6e,2026-09-10T10:22:09.934285,564669,Primera Division,Sevilla FC,Valencia CF,2026-09-11T19:00:00Z,1X2 - Away,0.4594,,,,1.26,1.63,8.5,4.93,poisson_baseline_v0
+be4c7fc7,2026-09-10T10:22:09.934285,564669,Primera Division,Sevilla FC,Valencia CF,2026-09-11T19:00:00Z,Over 2.5 goals,0.551,,,,1.26,1.63,8.5,4.93,poisson_baseline_v0
+0218edda,2026-09-10T10:22:09.934285,564669,Primera Division,Sevilla FC,Valencia CF,2026-09-11T19:00:00Z,Under 2.5 goals,0.449,,,,1.26,1.63,8.5,4.93,poisson_baseline_v0

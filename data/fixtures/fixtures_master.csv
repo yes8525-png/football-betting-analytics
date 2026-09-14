@@ -113,4 +113,7 @@ match_id,competition,competition_code,utc_date,status,home_team,away_team,home_s
 558603,Serie A,SA,2026-09-14T16:30:00Z,TIMED,Torino FC,AS Roma,,
 558601,Serie A,SA,2026-09-14T18:45:00Z,TIMED,FC Internazionale Milano,Udinese Calcio,,
 560579,Premier League,PL,2026-09-14T19:00:00Z,TIMED,Leeds United FC,Newcastle United FC,,
-564671,Primera Division,PD,2026-09-14T19:00:00Z,2026-09-14 19:00:00Z,Villarreal CF,Real Betis Balompié,,
+564671,Primera Division,PD,2026-09-14T19:00:00Z,TIMED,Villarreal CF,Real Betis Balompié,,
+564678,Primera Division,PD,2026-09-15T17:00:00Z,TIMED,Rayo Vallecano de Madrid,RCD Espanyol de Barcelona,,
+564680,Primera Division,PD,2026-09-15T18:00:00Z,TIMED,Deportivo Alavés,Valencia CF,,
+564681,Primera Division,PD,2026-09-15T19:30:00Z,TIMED,Elche CF,Real Madrid CF,,

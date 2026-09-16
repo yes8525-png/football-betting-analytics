@@ -1354,3 +1354,33 @@ a75bd1eb,2026-09-15T10:47:48.376132,564687,Primera Division,FC Barcelona,Real Ra
 de120dbf,2026-09-15T10:47:48.376132,564685,Primera Division,Levante UD,Athletic Club,2026-09-16T19:30:00Z,1X2 - Away,0.4228,,,,1.75,1.91,10.47,3.87,poisson_baseline_v0
 4fdb5860,2026-09-15T10:47:48.376132,564685,Primera Division,Levante UD,Athletic Club,2026-09-16T19:30:00Z,Over 2.5 goals,0.7085,,,,1.75,1.91,10.47,3.87,poisson_baseline_v0
 ef58fe3f,2026-09-15T10:47:48.376132,564685,Primera Division,Levante UD,Athletic Club,2026-09-16T19:30:00Z,Under 2.5 goals,0.2915,,,,1.75,1.91,10.47,3.87,poisson_baseline_v0
+dccf0299,2026-09-16T10:37:06.730836,564684,Primera Division,Club Atlético de Madrid,CA Osasuna,2026-09-16T17:00:00Z,1X2 - Home,0.4194,,,,1.75,1.59,9.63,5.6,poisson_baseline_v0
+c0cdb30c,2026-09-16T10:37:06.730836,564684,Primera Division,Club Atlético de Madrid,CA Osasuna,2026-09-16T17:00:00Z,1X2 - Draw,0.2278,,,,1.75,1.59,9.63,5.6,poisson_baseline_v0
+643ac907,2026-09-16T10:37:06.730836,564684,Primera Division,Club Atlético de Madrid,CA Osasuna,2026-09-16T17:00:00Z,1X2 - Away,0.3527,,,,1.75,1.59,9.63,5.6,poisson_baseline_v0
+10364d32,2026-09-16T10:37:06.730836,564684,Primera Division,Club Atlético de Madrid,CA Osasuna,2026-09-16T17:00:00Z,Over 2.5 goals,0.6492,,,,1.75,1.59,9.63,5.6,poisson_baseline_v0
+98c3f8a2,2026-09-16T10:37:06.730836,564684,Primera Division,Club Atlético de Madrid,CA Osasuna,2026-09-16T17:00:00Z,Under 2.5 goals,0.3508,,,,1.75,1.59,9.63,5.6,poisson_baseline_v0
+0b5f52b4,2026-09-16T10:37:06.730836,564679,Primera Division,RC Deportivo La Coruña,Sevilla FC,2026-09-16T17:00:00Z,1X2 - Home,0.4533,,,,1.56,1.22,8.83,5.93,poisson_baseline_v0
+f6b46285,2026-09-16T10:37:06.730836,564679,Primera Division,RC Deportivo La Coruña,Sevilla FC,2026-09-16T17:00:00Z,1X2 - Draw,0.2495,,,,1.56,1.22,8.83,5.93,poisson_baseline_v0
+c3634f59,2026-09-16T10:37:06.730836,564679,Primera Division,RC Deportivo La Coruña,Sevilla FC,2026-09-16T17:00:00Z,1X2 - Away,0.2972,,,,1.56,1.22,8.83,5.93,poisson_baseline_v0
+2d487492,2026-09-16T10:37:06.730836,564679,Primera Division,RC Deportivo La Coruña,Sevilla FC,2026-09-16T17:00:00Z,Over 2.5 goals,0.526,,,,1.56,1.22,8.83,5.93,poisson_baseline_v0
+b9290d60,2026-09-16T10:37:06.730836,564679,Primera Division,RC Deportivo La Coruña,Sevilla FC,2026-09-16T17:00:00Z,Under 2.5 goals,0.474,,,,1.56,1.22,8.83,5.93,poisson_baseline_v0
+fa4ffaeb,2026-09-16T10:37:06.730836,564685,Primera Division,Levante UD,Athletic Club,2026-09-16T19:30:00Z,1X2 - Home,0.3604,,,,1.75,1.91,10.47,3.87,poisson_baseline_v0
+a52a995c,2026-09-16T10:37:06.730836,564685,Primera Division,Levante UD,Athletic Club,2026-09-16T19:30:00Z,1X2 - Draw,0.2166,,,,1.75,1.91,10.47,3.87,poisson_baseline_v0
+eeb0e9b1,2026-09-16T10:37:06.730836,564685,Primera Division,Levante UD,Athletic Club,2026-09-16T19:30:00Z,1X2 - Away,0.4228,,,,1.75,1.91,10.47,3.87,poisson_baseline_v0
+37ded3cf,2026-09-16T10:37:06.730836,564685,Primera Division,Levante UD,Athletic Club,2026-09-16T19:30:00Z,Over 2.5 goals,0.7085,,,,1.75,1.91,10.47,3.87,poisson_baseline_v0
+0e2c6330,2026-09-16T10:37:06.730836,564685,Primera Division,Levante UD,Athletic Club,2026-09-16T19:30:00Z,Under 2.5 goals,0.2915,,,,1.75,1.91,10.47,3.87,poisson_baseline_v0
+413ca5e5,2026-09-16T10:37:06.730836,564687,Primera Division,FC Barcelona,Real Racing Club de Santander,2026-09-16T19:30:00Z,1X2 - Home,0.7428,,,,3.21,1.29,12.3,4.27,poisson_baseline_v0
+b35561e8,2026-09-16T10:37:06.730836,564687,Primera Division,FC Barcelona,Real Racing Club de Santander,2026-09-16T19:30:00Z,1X2 - Draw,0.1335,,,,3.21,1.29,12.3,4.27,poisson_baseline_v0
+3bbdefd8,2026-09-16T10:37:06.730836,564687,Primera Division,FC Barcelona,Real Racing Club de Santander,2026-09-16T19:30:00Z,1X2 - Away,0.1179,,,,3.21,1.29,12.3,4.27,poisson_baseline_v0
+9dde3edb,2026-09-16T10:37:06.730836,564687,Primera Division,FC Barcelona,Real Racing Club de Santander,2026-09-16T19:30:00Z,Over 2.5 goals,0.8204,,,,3.21,1.29,12.3,4.27,poisson_baseline_v0
+52c30b6a,2026-09-16T10:37:06.730836,564687,Primera Division,FC Barcelona,Real Racing Club de Santander,2026-09-16T19:30:00Z,Under 2.5 goals,0.1796,,,,3.21,1.29,12.3,4.27,poisson_baseline_v0
+de0af923,2026-09-16T10:37:06.730836,564686,Primera Division,Real Betis Balompié,Getafe CF,2026-09-17T17:00:00Z,1X2 - Home,0.3601,,,,0.98,0.91,9.37,5.67,poisson_baseline_v0
+2916b0d0,2026-09-16T10:37:06.730836,564686,Primera Division,Real Betis Balompié,Getafe CF,2026-09-17T17:00:00Z,1X2 - Draw,0.3191,,,,0.98,0.91,9.37,5.67,poisson_baseline_v0
+4e35d9ef,2026-09-16T10:37:06.730836,564686,Primera Division,Real Betis Balompié,Getafe CF,2026-09-17T17:00:00Z,1X2 - Away,0.3208,,,,0.98,0.91,9.37,5.67,poisson_baseline_v0
+8d646b30,2026-09-16T10:37:06.730836,564686,Primera Division,Real Betis Balompié,Getafe CF,2026-09-17T17:00:00Z,Over 2.5 goals,0.2932,,,,0.98,0.91,9.37,5.67,poisson_baseline_v0
+546c59e2,2026-09-16T10:37:06.730836,564686,Primera Division,Real Betis Balompié,Getafe CF,2026-09-17T17:00:00Z,Under 2.5 goals,0.7068,,,,0.98,0.91,9.37,5.67,poisson_baseline_v0
+ecfcc903,2026-09-16T10:37:06.730836,564683,Primera Division,Málaga CF,Villarreal CF,2026-09-17T19:30:00Z,1X2 - Home,0.0385,,,,0.42,2.68,10.47,3.87,poisson_baseline_v0
+20bc3c1a,2026-09-16T10:37:06.730836,564683,Primera Division,Málaga CF,Villarreal CF,2026-09-17T19:30:00Z,1X2 - Draw,0.1124,,,,0.42,2.68,10.47,3.87,poisson_baseline_v0
+9565bfb8,2026-09-16T10:37:06.730836,564683,Primera Division,Málaga CF,Villarreal CF,2026-09-17T19:30:00Z,1X2 - Away,0.8474,,,,0.42,2.68,10.47,3.87,poisson_baseline_v0
+0c9f351d,2026-09-16T10:37:06.730836,564683,Primera Division,Málaga CF,Villarreal CF,2026-09-17T19:30:00Z,Over 2.5 goals,0.5961,,,,0.42,2.68,10.47,3.87,poisson_baseline_v0
+b1c7a595,2026-09-16T10:37:06.730836,564683,Primera Division,Málaga CF,Villarreal CF,2026-09-17T19:30:00Z,Under 2.5 goals,0.4039,,,,0.42,2.68,10.47,3.87,poisson_baseline_v0

@@ -171,3 +171,6 @@ match_id,competition,competition_code,utc_date,status,home_team,away_team,home_s
 558597,Serie A,SA,2026-09-20T18:45:00Z,TIMED,AC Milan,US Lecce,,
 559675,Ligue 1,FL1,2026-09-20T18:45:00Z,TIMED,Olympique de Marseille,Paris Saint-Germain FC,,
 564689,Primera Division,PD,2026-09-20T19:00:00Z,TIMED,Valencia CF,Real Sociedad de Fútbol,,
+565820,Bundesliga,BL1,2026-10-09T18:30:00Z,TIMED,Borussia Dortmund,SV Werder Bremen,,
+559669,Ligue 1,FL1,2026-10-09T18:45:00Z,TIMED,Racing Club de Lens,Olympique Lyonnais,,
+564706,Primera Division,PD,2026-10-09T19:00:00Z,TIMED,Málaga CF,RCD Espanyol de Barcelona,,

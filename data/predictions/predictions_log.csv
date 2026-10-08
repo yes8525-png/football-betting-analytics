@@ -1854,3 +1854,13 @@ a2561c3b,2026-09-20T10:24:06.623600,559675,Ligue 1,Olympique de Marseille,Paris 
 d948224f,2026-09-20T10:24:06.623600,564689,Primera Division,Valencia CF,Real Sociedad de Fútbol,2026-09-20T19:00:00Z,1X2 - Away,0.5161,,,,1.31,1.92,9.63,4.93,poisson_baseline_v0
 f106f29c,2026-09-20T10:24:06.623600,564689,Primera Division,Valencia CF,Real Sociedad de Fútbol,2026-09-20T19:00:00Z,Over 2.5 goals,0.6274,,,,1.31,1.92,9.63,4.93,poisson_baseline_v0
 fcf6dc1b,2026-09-20T10:24:06.623600,564689,Primera Division,Valencia CF,Real Sociedad de Fútbol,2026-09-20T19:00:00Z,Under 2.5 goals,0.3726,,,,1.31,1.92,9.63,4.93,poisson_baseline_v0
+e1862b86,2026-10-08T12:37:15.144556,565820,Bundesliga,Borussia Dortmund,SV Werder Bremen,2026-10-09T18:30:00Z,1X2 - Home,0.5752,,,,1.82,0.97,9.07,3.87,poisson_baseline_v0
+886be6cd,2026-10-08T12:37:15.144556,565820,Bundesliga,Borussia Dortmund,SV Werder Bremen,2026-10-09T18:30:00Z,1X2 - Draw,0.2278,,,,1.82,0.97,9.07,3.87,poisson_baseline_v0
+5fb56370,2026-10-08T12:37:15.144556,565820,Bundesliga,Borussia Dortmund,SV Werder Bremen,2026-10-09T18:30:00Z,1X2 - Away,0.1969,,,,1.82,0.97,9.07,3.87,poisson_baseline_v0
+ab337250,2026-10-08T12:37:15.144556,565820,Bundesliga,Borussia Dortmund,SV Werder Bremen,2026-10-09T18:30:00Z,Over 2.5 goals,0.528,,,,1.82,0.97,9.07,3.87,poisson_baseline_v0
+d0bd5351,2026-10-08T12:37:15.144556,565820,Bundesliga,Borussia Dortmund,SV Werder Bremen,2026-10-09T18:30:00Z,Under 2.5 goals,0.472,,,,1.82,0.97,9.07,3.87,poisson_baseline_v0
+5aa7276c,2026-10-08T12:37:15.144556,564706,Primera Division,Málaga CF,RCD Espanyol de Barcelona,2026-10-09T19:00:00Z,1X2 - Home,0.0813,,,,0.41,1.74,9.76,5.06,poisson_baseline_v0
+d687b3a4,2026-10-08T12:37:15.144556,564706,Primera Division,Málaga CF,RCD Espanyol de Barcelona,2026-10-09T19:00:00Z,1X2 - Draw,0.2159,,,,0.41,1.74,9.76,5.06,poisson_baseline_v0
+8f0ede76,2026-10-08T12:37:15.144556,564706,Primera Division,Málaga CF,RCD Espanyol de Barcelona,2026-10-09T19:00:00Z,1X2 - Away,0.7027,,,,0.41,1.74,9.76,5.06,poisson_baseline_v0
+27715039,2026-10-08T12:37:15.144556,564706,Primera Division,Málaga CF,RCD Espanyol de Barcelona,2026-10-09T19:00:00Z,Over 2.5 goals,0.3635,,,,0.41,1.74,9.76,5.06,poisson_baseline_v0
+e546cc66,2026-10-08T12:37:15.144556,564706,Primera Division,Málaga CF,RCD Espanyol de Barcelona,2026-10-09T19:00:00Z,Under 2.5 goals,0.6365,,,,0.41,1.74,9.76,5.06,poisson_baseline_v0

@@ -2284,3 +2284,23 @@ acf27238,2026-10-11T11:55:20.661915,560597,Premier League,Coventry City FC,Newca
 b9ffd5d2,2026-10-11T11:55:20.661915,560597,Premier League,Coventry City FC,Newcastle United FC,2026-10-12T19:00:00Z,1X2 - Away,0.8484,,,,0.19,2.25,8.9,3.33,poisson_baseline_v0
 e7deb492,2026-10-11T11:55:20.661915,560597,Premier League,Coventry City FC,Newcastle United FC,2026-10-12T19:00:00Z,Over 2.5 goals,0.4389,,,,0.19,2.25,8.9,3.33,poisson_baseline_v0
 bc96f851,2026-10-11T11:55:20.661915,560597,Premier League,Coventry City FC,Newcastle United FC,2026-10-12T19:00:00Z,Under 2.5 goals,0.5611,,,,0.19,2.25,8.9,3.33,poisson_baseline_v0
+d84d8153,2026-10-12T14:04:38.443669,558579,Serie A,Atalanta BC,Venezia FC,2026-10-12T16:30:00Z,1X2 - Home,0.5161,,,,1.39,0.78,8.2,4.0,poisson_baseline_v0
+b567f8f7,2026-10-12T14:04:38.443669,558579,Serie A,Atalanta BC,Venezia FC,2026-10-12T16:30:00Z,1X2 - Draw,0.2753,,,,1.39,0.78,8.2,4.0,poisson_baseline_v0
+96511331,2026-10-12T14:04:38.443669,558579,Serie A,Atalanta BC,Venezia FC,2026-10-12T16:30:00Z,1X2 - Away,0.2086,,,,1.39,0.78,8.2,4.0,poisson_baseline_v0
+5777b305,2026-10-12T14:04:38.443669,558579,Serie A,Atalanta BC,Venezia FC,2026-10-12T16:30:00Z,Over 2.5 goals,0.3696,,,,1.39,0.78,8.2,4.0,poisson_baseline_v0
+3ab58d05,2026-10-12T14:04:38.443669,558579,Serie A,Atalanta BC,Venezia FC,2026-10-12T16:30:00Z,Under 2.5 goals,0.6304,,,,1.39,0.78,8.2,4.0,poisson_baseline_v0
+e0c4d743,2026-10-12T14:04:38.443669,558587,Serie A,Torino FC,Udinese Calcio,2026-10-12T18:45:00Z,1X2 - Home,0.2827,,,,1.15,1.55,8.9,3.4,poisson_baseline_v0
+f402d0fa,2026-10-12T14:04:38.443669,558587,Serie A,Torino FC,Udinese Calcio,2026-10-12T18:45:00Z,1X2 - Draw,0.2526,,,,1.15,1.55,8.9,3.4,poisson_baseline_v0
+aafd6fa8,2026-10-12T14:04:38.443669,558587,Serie A,Torino FC,Udinese Calcio,2026-10-12T18:45:00Z,1X2 - Away,0.4647,,,,1.15,1.55,8.9,3.4,poisson_baseline_v0
+5067f6da,2026-10-12T14:04:38.443669,558587,Serie A,Torino FC,Udinese Calcio,2026-10-12T18:45:00Z,Over 2.5 goals,0.505,,,,1.15,1.55,8.9,3.4,poisson_baseline_v0
+94dd5499,2026-10-12T14:04:38.443669,558587,Serie A,Torino FC,Udinese Calcio,2026-10-12T18:45:00Z,Under 2.5 goals,0.495,,,,1.15,1.55,8.9,3.4,poisson_baseline_v0
+0a9642fc,2026-10-12T14:04:38.443669,560597,Premier League,Coventry City FC,Newcastle United FC,2026-10-12T19:00:00Z,1X2 - Home,0.0222,,,,0.19,2.25,8.9,3.33,poisson_baseline_v0
+e935adaf,2026-10-12T14:04:38.443669,560597,Premier League,Coventry City FC,Newcastle United FC,2026-10-12T19:00:00Z,1X2 - Draw,0.1289,,,,0.19,2.25,8.9,3.33,poisson_baseline_v0
+b5cc3e0f,2026-10-12T14:04:38.443669,560597,Premier League,Coventry City FC,Newcastle United FC,2026-10-12T19:00:00Z,1X2 - Away,0.8484,,,,0.19,2.25,8.9,3.33,poisson_baseline_v0
+7cdaaac2,2026-10-12T14:04:38.443669,560597,Premier League,Coventry City FC,Newcastle United FC,2026-10-12T19:00:00Z,Over 2.5 goals,0.4389,,,,0.19,2.25,8.9,3.33,poisson_baseline_v0
+8ec49733,2026-10-12T14:04:38.443669,560597,Premier League,Coventry City FC,Newcastle United FC,2026-10-12T19:00:00Z,Under 2.5 goals,0.5611,,,,0.19,2.25,8.9,3.33,poisson_baseline_v0
+d5e8d2c0,2026-10-12T14:04:38.443669,564704,Primera Division,Levante UD,Sevilla FC,2026-10-12T19:00:00Z,1X2 - Home,0.244,,,,1.21,1.89,9.0,5.07,poisson_baseline_v0
+28ba901b,2026-10-12T14:04:38.443669,564704,Primera Division,Levante UD,Sevilla FC,2026-10-12T19:00:00Z,1X2 - Draw,0.2244,,,,1.21,1.89,9.0,5.07,poisson_baseline_v0
+41a2b9dd,2026-10-12T14:04:38.443669,564704,Primera Division,Levante UD,Sevilla FC,2026-10-12T19:00:00Z,1X2 - Away,0.5314,,,,1.21,1.89,9.0,5.07,poisson_baseline_v0
+97b7c77d,2026-10-12T14:04:38.443669,564704,Primera Division,Levante UD,Sevilla FC,2026-10-12T19:00:00Z,Over 2.5 goals,0.5992,,,,1.21,1.89,9.0,5.07,poisson_baseline_v0
+a2a586c9,2026-10-12T14:04:38.443669,564704,Primera Division,Levante UD,Sevilla FC,2026-10-12T19:00:00Z,Under 2.5 goals,0.4008,,,,1.21,1.89,9.0,5.07,poisson_baseline_v0

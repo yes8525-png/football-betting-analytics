@@ -2304,3 +2304,23 @@ d5e8d2c0,2026-10-12T14:04:38.443669,564704,Primera Division,Levante UD,Sevilla F
 41a2b9dd,2026-10-12T14:04:38.443669,564704,Primera Division,Levante UD,Sevilla FC,2026-10-12T19:00:00Z,1X2 - Away,0.5314,,,,1.21,1.89,9.0,5.07,poisson_baseline_v0
 97b7c77d,2026-10-12T14:04:38.443669,564704,Primera Division,Levante UD,Sevilla FC,2026-10-12T19:00:00Z,Over 2.5 goals,0.5992,,,,1.21,1.89,9.0,5.07,poisson_baseline_v0
 a2a586c9,2026-10-12T14:04:38.443669,564704,Primera Division,Levante UD,Sevilla FC,2026-10-12T19:00:00Z,Under 2.5 goals,0.4008,,,,1.21,1.89,9.0,5.07,poisson_baseline_v0
+f60275d3,2026-10-15T10:39:55.273197,565828,Bundesliga,Eintracht Frankfurt,1. FC Köln,2026-10-16T18:30:00Z,1X2 - Home,0.2864,2.0,0.5,-0.2136,1.78,2.41,10.57,4.8,poisson_baseline_v0
+50059d88,2026-10-15T10:39:55.273197,565828,Bundesliga,Eintracht Frankfurt,1. FC Köln,2026-10-16T18:30:00Z,1X2 - Draw,0.1938,4.36,0.2294,-0.0356,1.78,2.41,10.57,4.8,poisson_baseline_v0
+01bf9774,2026-10-15T10:39:55.273197,565828,Bundesliga,Eintracht Frankfurt,1. FC Köln,2026-10-16T18:30:00Z,1X2 - Away,0.5188,3.75,0.2667,0.2521,1.78,2.41,10.57,4.8,poisson_baseline_v0
+9dc9d3ba,2026-10-15T10:39:55.273197,565828,Bundesliga,Eintracht Frankfurt,1. FC Köln,2026-10-16T18:30:00Z,Over 2.5 goals,0.7872,1.94,0.5155,0.2717,1.78,2.41,10.57,4.8,poisson_baseline_v0
+7c4701db,2026-10-15T10:39:55.273197,565828,Bundesliga,Eintracht Frankfurt,1. FC Köln,2026-10-16T18:30:00Z,Under 2.5 goals,0.2128,3.2,0.3125,-0.0997,1.78,2.41,10.57,4.8,poisson_baseline_v0
+0898f548,2026-10-15T10:39:55.273197,559661,Ligue 1,Le Mans FC,Toulouse FC,2026-10-16T18:45:00Z,1X2 - Home,0.3296,,,,2.06,2.48,9.1,5.3,poisson_baseline_v0
+5c475274,2026-10-15T10:39:55.273197,559661,Ligue 1,Le Mans FC,Toulouse FC,2026-10-16T18:45:00Z,1X2 - Draw,0.1902,,,,2.06,2.48,9.1,5.3,poisson_baseline_v0
+7cacfd45,2026-10-15T10:39:55.273197,559661,Ligue 1,Le Mans FC,Toulouse FC,2026-10-16T18:45:00Z,1X2 - Away,0.4789,,,,2.06,2.48,9.1,5.3,poisson_baseline_v0
+2f409d79,2026-10-15T10:39:55.273197,559661,Ligue 1,Le Mans FC,Toulouse FC,2026-10-16T18:45:00Z,Over 2.5 goals,0.8291,,,,2.06,2.48,9.1,5.3,poisson_baseline_v0
+a9f71f5f,2026-10-15T10:39:55.273197,559661,Ligue 1,Le Mans FC,Toulouse FC,2026-10-16T18:45:00Z,Under 2.5 goals,0.1709,,,,2.06,2.48,9.1,5.3,poisson_baseline_v0
+6062773b,2026-10-15T10:39:55.273197,558573,Serie A,Frosinone Calcio,US Sassuolo Calcio,2026-10-16T18:45:00Z,1X2 - Home,0.3144,,,,1.02,1.18,10.27,3.53,poisson_baseline_v0
+46d0418b,2026-10-15T10:39:55.273197,558573,Serie A,Frosinone Calcio,US Sassuolo Calcio,2026-10-16T18:45:00Z,1X2 - Draw,0.2899,,,,1.02,1.18,10.27,3.53,poisson_baseline_v0
+a647913a,2026-10-15T10:39:55.273197,558573,Serie A,Frosinone Calcio,US Sassuolo Calcio,2026-10-16T18:45:00Z,1X2 - Away,0.3957,,,,1.02,1.18,10.27,3.53,poisson_baseline_v0
+729650e5,2026-10-15T10:39:55.273197,558573,Serie A,Frosinone Calcio,US Sassuolo Calcio,2026-10-16T18:45:00Z,Over 2.5 goals,0.3778,,,,1.02,1.18,10.27,3.53,poisson_baseline_v0
+9fe5390e,2026-10-15T10:39:55.273197,558573,Serie A,Frosinone Calcio,US Sassuolo Calcio,2026-10-16T18:45:00Z,Under 2.5 goals,0.6222,,,,1.02,1.18,10.27,3.53,poisson_baseline_v0
+dbc0e897,2026-10-15T10:39:55.273197,564716,Primera Division,RC Deportivo La Coruña,Levante UD,2026-10-16T19:00:00Z,1X2 - Home,0.3553,,,,1.78,1.97,10.27,4.42,poisson_baseline_v0
+aba289e6,2026-10-15T10:39:55.273197,564716,Primera Division,RC Deportivo La Coruña,Levante UD,2026-10-16T19:00:00Z,1X2 - Draw,0.2138,,,,1.78,1.97,10.27,4.42,poisson_baseline_v0
+b11bd27a,2026-10-15T10:39:55.273197,564716,Primera Division,RC Deportivo La Coruña,Levante UD,2026-10-16T19:00:00Z,1X2 - Away,0.4307,,,,1.78,1.97,10.27,4.42,poisson_baseline_v0
+25fe998c,2026-10-15T10:39:55.273197,564716,Primera Division,RC Deportivo La Coruña,Levante UD,2026-10-16T19:00:00Z,Over 2.5 goals,0.7217,,,,1.78,1.97,10.27,4.42,poisson_baseline_v0
+d5fb44b9,2026-10-15T10:39:55.273197,564716,Primera Division,RC Deportivo La Coruña,Levante UD,2026-10-16T19:00:00Z,Under 2.5 goals,0.2783,,,,1.78,1.97,10.27,4.42,poisson_baseline_v0

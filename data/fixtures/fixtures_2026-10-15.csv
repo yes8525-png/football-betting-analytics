@@ -1,0 +1,5 @@
+match_id,competition,competition_code,utc_date,status,home_team,away_team,home_score,away_score
+565828,Bundesliga,BL1,2026-10-16T18:30:00Z,TIMED,Eintracht Frankfurt,1. FC Köln,,
+559661,Ligue 1,FL1,2026-10-16T18:45:00Z,TIMED,Le Mans FC,Toulouse FC,,
+558573,Serie A,SA,2026-10-16T18:45:00Z,TIMED,Frosinone Calcio,US Sassuolo Calcio,,
+564716,Primera Division,PD,2026-10-16T19:00:00Z,TIMED,RC Deportivo La Coruña,Levante UD,,

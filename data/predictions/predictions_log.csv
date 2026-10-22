@@ -2759,3 +2759,23 @@ e0b43b7d,2026-10-21T10:57:42.728103,564685,Primera Division,Levante UD,Athletic 
 5ebb32b6,2026-10-21T10:57:42.728103,564685,Primera Division,Levante UD,Athletic Club,2026-10-21T18:00:00Z,1X2 - Away,0.4715,,,,1.53,1.93,10.1,3.93,poisson_baseline_v0
 fbeff91c,2026-10-21T10:57:42.728103,564685,Primera Division,Levante UD,Athletic Club,2026-10-21T18:00:00Z,Over 2.5 goals,0.6716,,,,1.53,1.93,10.1,3.93,poisson_baseline_v0
 f18769d5,2026-10-21T10:57:42.728103,564685,Primera Division,Levante UD,Athletic Club,2026-10-21T18:00:00Z,Under 2.5 goals,0.3284,,,,1.53,1.93,10.1,3.93,poisson_baseline_v0
+e65c6014,2026-10-22T10:57:21.899008,565833,Bundesliga,VfB Stuttgart,Borussia Mönchengladbach,2026-10-23T18:30:00Z,1X2 - Home,0.4896,,,,2.2,1.72,10.4,4.67,poisson_baseline_v0
+60b431b5,2026-10-22T10:57:21.899008,565833,Bundesliga,VfB Stuttgart,Borussia Mönchengladbach,2026-10-23T18:30:00Z,1X2 - Draw,0.204,,,,2.2,1.72,10.4,4.67,poisson_baseline_v0
+e6941743,2026-10-22T10:57:21.899008,565833,Bundesliga,VfB Stuttgart,Borussia Mönchengladbach,2026-10-23T18:30:00Z,1X2 - Away,0.3059,,,,2.2,1.72,10.4,4.67,poisson_baseline_v0
+30aea3d2,2026-10-22T10:57:21.899008,565833,Bundesliga,VfB Stuttgart,Borussia Mönchengladbach,2026-10-23T18:30:00Z,Over 2.5 goals,0.7503,,,,2.2,1.72,10.4,4.67,poisson_baseline_v0
+cf6dd946,2026-10-22T10:57:21.899008,565833,Bundesliga,VfB Stuttgart,Borussia Mönchengladbach,2026-10-23T18:30:00Z,Under 2.5 goals,0.2497,,,,2.2,1.72,10.4,4.67,poisson_baseline_v0
+c1de5ffd,2026-10-22T10:57:21.899008,558567,Serie A,Torino FC,AC Monza,2026-10-23T18:45:00Z,1X2 - Home,0.5615,,,,1.94,1.13,8.23,3.2,poisson_baseline_v0
+d0fa400d,2026-10-22T10:57:21.899008,558567,Serie A,Torino FC,AC Monza,2026-10-23T18:45:00Z,1X2 - Draw,0.2194,,,,1.94,1.13,8.23,3.2,poisson_baseline_v0
+fd18047e,2026-10-22T10:57:21.899008,558567,Serie A,Torino FC,AC Monza,2026-10-23T18:45:00Z,1X2 - Away,0.2189,,,,1.94,1.13,8.23,3.2,poisson_baseline_v0
+b208924d,2026-10-22T10:57:21.899008,558567,Serie A,Torino FC,AC Monza,2026-10-23T18:45:00Z,Over 2.5 goals,0.5936,,,,1.94,1.13,8.23,3.2,poisson_baseline_v0
+7996b706,2026-10-22T10:57:21.899008,558567,Serie A,Torino FC,AC Monza,2026-10-23T18:45:00Z,Under 2.5 goals,0.4064,,,,1.94,1.13,8.23,3.2,poisson_baseline_v0
+72f45319,2026-10-22T10:57:21.899008,564719,Primera Division,Deportivo Alavés,Málaga CF,2026-10-23T19:00:00Z,1X2 - Home,0.6579,,,,1.91,0.71,10.09,4.27,poisson_baseline_v0
+ae3f0db3,2026-10-22T10:57:21.899008,564719,Primera Division,Deportivo Alavés,Málaga CF,2026-10-23T19:00:00Z,1X2 - Draw,0.2103,,,,1.91,0.71,10.09,4.27,poisson_baseline_v0
+97b4b2b8,2026-10-22T10:57:21.899008,564719,Primera Division,Deportivo Alavés,Málaga CF,2026-10-23T19:00:00Z,1X2 - Away,0.1316,,,,1.91,0.71,10.09,4.27,poisson_baseline_v0
+0ed4035b,2026-10-22T10:57:21.899008,564719,Primera Division,Deportivo Alavés,Málaga CF,2026-10-23T19:00:00Z,Over 2.5 goals,0.4884,,,,1.91,0.71,10.09,4.27,poisson_baseline_v0
+c3a42599,2026-10-22T10:57:21.899008,564719,Primera Division,Deportivo Alavés,Málaga CF,2026-10-23T19:00:00Z,Under 2.5 goals,0.5116,,,,1.91,0.71,10.09,4.27,poisson_baseline_v0
+ec379cb6,2026-10-22T10:57:21.899008,560620,Premier League,Ipswich Town FC,Nottingham Forest FC,2026-10-23T19:00:00Z,1X2 - Home,0.0777,,,,0.83,2.89,9.43,4.07,poisson_baseline_v0
+aa5477da,2026-10-22T10:57:21.899008,560620,Premier League,Ipswich Town FC,Nottingham Forest FC,2026-10-23T19:00:00Z,1X2 - Draw,0.1275,,,,0.83,2.89,9.43,4.07,poisson_baseline_v0
+cdfc6177,2026-10-22T10:57:21.899008,560620,Premier League,Ipswich Town FC,Nottingham Forest FC,2026-10-23T19:00:00Z,1X2 - Away,0.7917,,,,0.83,2.89,9.43,4.07,poisson_baseline_v0
+e6ee5db2,2026-10-22T10:57:21.899008,560620,Premier League,Ipswich Town FC,Nottingham Forest FC,2026-10-23T19:00:00Z,Over 2.5 goals,0.7149,,,,0.83,2.89,9.43,4.07,poisson_baseline_v0
+29839133,2026-10-22T10:57:21.899008,560620,Premier League,Ipswich Town FC,Nottingham Forest FC,2026-10-23T19:00:00Z,Under 2.5 goals,0.2851,,,,0.83,2.89,9.43,4.07,poisson_baseline_v0

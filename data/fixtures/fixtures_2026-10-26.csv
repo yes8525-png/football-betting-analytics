@@ -1,0 +1,6 @@
+match_id,competition,competition_code,utc_date,status,home_team,away_team,home_score,away_score
+559648,Ligue 1,FL1,2026-10-26T19:30:00Z,TIMED,Paris Saint-Germain FC,Olympique Lyonnais,,
+564721,Primera Division,PD,2026-10-26T20:00:00Z,TIMED,Sevilla FC,CA Osasuna,,
+558556,Serie A,SA,2026-10-27T17:30:00Z,TIMED,US Sassuolo Calcio,SS Lazio,,
+558557,Serie A,SA,2026-10-27T19:45:00Z,TIMED,Torino FC,Como 1907,,
+558555,Serie A,SA,2026-10-27T19:45:00Z,TIMED,AS Roma,Cagliari Calcio,,

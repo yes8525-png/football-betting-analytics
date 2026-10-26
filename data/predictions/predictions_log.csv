@@ -3204,3 +3204,23 @@ d7590e25,2026-10-25T10:30:24.616311,564723,Primera Division,FC Barcelona,Real Ma
 23029cc1,2026-10-25T10:30:24.616311,564721,Primera Division,Sevilla FC,CA Osasuna,2026-10-26T20:00:00Z,1X2 - Away,0.3264,,,,1.85,1.55,8.2,5.8,poisson_baseline_v0
 40f2400f,2026-10-25T10:30:24.616311,564721,Primera Division,Sevilla FC,CA Osasuna,2026-10-26T20:00:00Z,Over 2.5 goals,0.6604,,,,1.85,1.55,8.2,5.8,poisson_baseline_v0
 69b3b85c,2026-10-25T10:30:24.616311,564721,Primera Division,Sevilla FC,CA Osasuna,2026-10-26T20:00:00Z,Under 2.5 goals,0.3396,,,,1.85,1.55,8.2,5.8,poisson_baseline_v0
+0a11eea7,2026-10-26T12:01:58.542492,564721,Primera Division,Sevilla FC,CA Osasuna,2026-10-26T20:00:00Z,1X2 - Home,0.4495,,,,1.85,1.55,8.2,5.8,poisson_baseline_v0
+3bbad5df,2026-10-26T12:01:58.542492,564721,Primera Division,Sevilla FC,CA Osasuna,2026-10-26T20:00:00Z,1X2 - Draw,0.2239,,,,1.85,1.55,8.2,5.8,poisson_baseline_v0
+e9e5c978,2026-10-26T12:01:58.542492,564721,Primera Division,Sevilla FC,CA Osasuna,2026-10-26T20:00:00Z,1X2 - Away,0.3264,,,,1.85,1.55,8.2,5.8,poisson_baseline_v0
+ee48b3e5,2026-10-26T12:01:58.542492,564721,Primera Division,Sevilla FC,CA Osasuna,2026-10-26T20:00:00Z,Over 2.5 goals,0.6604,,,,1.85,1.55,8.2,5.8,poisson_baseline_v0
+905e3dad,2026-10-26T12:01:58.542492,564721,Primera Division,Sevilla FC,CA Osasuna,2026-10-26T20:00:00Z,Under 2.5 goals,0.3396,,,,1.85,1.55,8.2,5.8,poisson_baseline_v0
+bdcbb571,2026-10-26T12:01:58.542492,558556,Serie A,US Sassuolo Calcio,SS Lazio,2026-10-27T17:30:00Z,1X2 - Home,0.1943,,,,1.07,2.02,9.33,4.2,poisson_baseline_v0
+2327b7a9,2026-10-26T12:01:58.542492,558556,Serie A,US Sassuolo Calcio,SS Lazio,2026-10-27T17:30:00Z,1X2 - Draw,0.2114,,,,1.07,2.02,9.33,4.2,poisson_baseline_v0
+71a181ae,2026-10-26T12:01:58.542492,558556,Serie A,US Sassuolo Calcio,SS Lazio,2026-10-27T17:30:00Z,1X2 - Away,0.5941,,,,1.07,2.02,9.33,4.2,poisson_baseline_v0
+822f4491,2026-10-26T12:01:58.542492,558556,Serie A,US Sassuolo Calcio,SS Lazio,2026-10-27T17:30:00Z,Over 2.5 goals,0.5967,,,,1.07,2.02,9.33,4.2,poisson_baseline_v0
+333b5147,2026-10-26T12:01:58.542492,558556,Serie A,US Sassuolo Calcio,SS Lazio,2026-10-27T17:30:00Z,Under 2.5 goals,0.4033,,,,1.07,2.02,9.33,4.2,poisson_baseline_v0
+9f0af7b5,2026-10-26T12:01:58.542492,558557,Serie A,Torino FC,Como 1907,2026-10-27T19:45:00Z,1X2 - Home,0.1988,,,,0.85,1.6,9.03,3.0,poisson_baseline_v0
+e81b12a4,2026-10-26T12:01:58.542492,558557,Serie A,Torino FC,Como 1907,2026-10-27T19:45:00Z,1X2 - Draw,0.25,,,,0.85,1.6,9.03,3.0,poisson_baseline_v0
+96cfe479,2026-10-26T12:01:58.542492,558557,Serie A,Torino FC,Como 1907,2026-10-27T19:45:00Z,1X2 - Away,0.5512,,,,0.85,1.6,9.03,3.0,poisson_baseline_v0
+cfba55cd,2026-10-26T12:01:58.542492,558557,Serie A,Torino FC,Como 1907,2026-10-27T19:45:00Z,Over 2.5 goals,0.4436,,,,0.85,1.6,9.03,3.0,poisson_baseline_v0
+bf0ba91c,2026-10-26T12:01:58.542492,558557,Serie A,Torino FC,Como 1907,2026-10-27T19:45:00Z,Under 2.5 goals,0.5564,,,,0.85,1.6,9.03,3.0,poisson_baseline_v0
+04c926db,2026-10-26T12:01:58.542492,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,1X2 - Home,0.6928,,,,1.91,0.58,9.47,3.07,poisson_baseline_v0
+71ab4372,2026-10-26T12:01:58.542492,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,1X2 - Draw,0.2033,,,,1.91,0.58,9.47,3.07,poisson_baseline_v0
+9f649542,2026-10-26T12:01:58.542492,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,1X2 - Away,0.1038,,,,1.91,0.58,9.47,3.07,poisson_baseline_v0
+b4071af6,2026-10-26T12:01:58.542492,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,Over 2.5 goals,0.4539,,,,1.91,0.58,9.47,3.07,poisson_baseline_v0
+ed6b6056,2026-10-26T12:01:58.542492,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,Under 2.5 goals,0.5461,,,,1.91,0.58,9.47,3.07,poisson_baseline_v0

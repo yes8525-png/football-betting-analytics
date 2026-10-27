@@ -3224,3 +3224,43 @@ bf0ba91c,2026-10-26T12:01:58.542492,558557,Serie A,Torino FC,Como 1907,2026-10-2
 9f649542,2026-10-26T12:01:58.542492,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,1X2 - Away,0.1038,,,,1.91,0.58,9.47,3.07,poisson_baseline_v0
 b4071af6,2026-10-26T12:01:58.542492,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,Over 2.5 goals,0.4539,,,,1.91,0.58,9.47,3.07,poisson_baseline_v0
 ed6b6056,2026-10-26T12:01:58.542492,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,Under 2.5 goals,0.5461,,,,1.91,0.58,9.47,3.07,poisson_baseline_v0
+c8779f6a,2026-10-27T11:22:39.102074,558556,Serie A,US Sassuolo Calcio,SS Lazio,2026-10-27T17:30:00Z,1X2 - Home,0.1553,,,,0.97,2.19,9.6,4.27,poisson_baseline_v0
+a8fc363b,2026-10-27T11:22:39.102074,558556,Serie A,US Sassuolo Calcio,SS Lazio,2026-10-27T17:30:00Z,1X2 - Draw,0.1932,,,,0.97,2.19,9.6,4.27,poisson_baseline_v0
+47ca30d7,2026-10-27T11:22:39.102074,558556,Serie A,US Sassuolo Calcio,SS Lazio,2026-10-27T17:30:00Z,1X2 - Away,0.6511,,,,0.97,2.19,9.6,4.27,poisson_baseline_v0
+542e54e7,2026-10-27T11:22:39.102074,558556,Serie A,US Sassuolo Calcio,SS Lazio,2026-10-27T17:30:00Z,Over 2.5 goals,0.6119,,,,0.97,2.19,9.6,4.27,poisson_baseline_v0
+2c10bed3,2026-10-27T11:22:39.102074,558556,Serie A,US Sassuolo Calcio,SS Lazio,2026-10-27T17:30:00Z,Under 2.5 goals,0.3881,,,,0.97,2.19,9.6,4.27,poisson_baseline_v0
+85aa4d76,2026-10-27T11:22:39.102074,558557,Serie A,Torino FC,Como 1907,2026-10-27T19:45:00Z,1X2 - Home,0.1786,,,,0.93,1.92,9.23,3.0,poisson_baseline_v0
+daf97322,2026-10-27T11:22:39.102074,558557,Serie A,Torino FC,Como 1907,2026-10-27T19:45:00Z,1X2 - Draw,0.2181,,,,0.93,1.92,9.23,3.0,poisson_baseline_v0
+7f9282ac,2026-10-27T11:22:39.102074,558557,Serie A,Torino FC,Como 1907,2026-10-27T19:45:00Z,1X2 - Away,0.6032,,,,0.93,1.92,9.23,3.0,poisson_baseline_v0
+5681eaa1,2026-10-27T11:22:39.102074,558557,Serie A,Torino FC,Como 1907,2026-10-27T19:45:00Z,Over 2.5 goals,0.5421,,,,0.93,1.92,9.23,3.0,poisson_baseline_v0
+53841340,2026-10-27T11:22:39.102074,558557,Serie A,Torino FC,Como 1907,2026-10-27T19:45:00Z,Under 2.5 goals,0.4579,,,,0.93,1.92,9.23,3.0,poisson_baseline_v0
+685c0230,2026-10-27T11:22:39.102074,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,1X2 - Home,0.7397,,,,1.97,0.44,9.63,3.47,poisson_baseline_v0
+ec7e58ff,2026-10-27T11:22:39.102074,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,1X2 - Draw,0.1869,,,,1.97,0.44,9.63,3.47,poisson_baseline_v0
+766350e6,2026-10-27T11:22:39.102074,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,1X2 - Away,0.0732,,,,1.97,0.44,9.63,3.47,poisson_baseline_v0
+3d16365a,2026-10-27T11:22:39.102074,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,Over 2.5 goals,0.4321,,,,1.97,0.44,9.63,3.47,poisson_baseline_v0
+9e55c2f4,2026-10-27T11:22:39.102074,558555,Serie A,AS Roma,Cagliari Calcio,2026-10-27T19:45:00Z,Under 2.5 goals,0.5679,,,,1.97,0.44,9.63,3.47,poisson_baseline_v0
+fd8fb17b,2026-10-27T11:22:39.102074,558553,Serie A,Parma Calcio 1913,Udinese Calcio,2026-10-28T17:30:00Z,1X2 - Home,0.2049,,,,0.8,1.47,9.6,3.2,poisson_baseline_v0
+3ee2a694,2026-10-27T11:22:39.102074,558553,Serie A,Parma Calcio 1913,Udinese Calcio,2026-10-28T17:30:00Z,1X2 - Draw,0.266,,,,0.8,1.47,9.6,3.2,poisson_baseline_v0
+96b6b0bd,2026-10-27T11:22:39.102074,558553,Serie A,Parma Calcio 1913,Udinese Calcio,2026-10-28T17:30:00Z,1X2 - Away,0.529,,,,0.8,1.47,9.6,3.2,poisson_baseline_v0
+eca4a355,2026-10-27T11:22:39.102074,558553,Serie A,Parma Calcio 1913,Udinese Calcio,2026-10-28T17:30:00Z,Over 2.5 goals,0.3952,,,,0.8,1.47,9.6,3.2,poisson_baseline_v0
+e6c8e284,2026-10-27T11:22:39.102074,558553,Serie A,Parma Calcio 1913,Udinese Calcio,2026-10-28T17:30:00Z,Under 2.5 goals,0.6048,,,,0.8,1.47,9.6,3.2,poisson_baseline_v0
+7c54db83,2026-10-27T11:22:39.102074,558550,Serie A,Venezia FC,FC Internazionale Milano,2026-10-28T17:30:00Z,1X2 - Home,0.0296,,,,0.81,4.17,8.9,3.73,poisson_baseline_v0
+f48e8087,2026-10-27T11:22:39.102074,558550,Serie A,Venezia FC,FC Internazionale Milano,2026-10-28T17:30:00Z,1X2 - Draw,0.0586,,,,0.81,4.17,8.9,3.73,poisson_baseline_v0
+5669058c,2026-10-27T11:22:39.102074,558550,Serie A,Venezia FC,FC Internazionale Milano,2026-10-28T17:30:00Z,1X2 - Away,0.8849,,,,0.81,4.17,8.9,3.73,poisson_baseline_v0
+0a1a83f9,2026-10-27T11:22:39.102074,558550,Serie A,Venezia FC,FC Internazionale Milano,2026-10-28T17:30:00Z,Over 2.5 goals,0.8466,,,,0.81,4.17,8.9,3.73,poisson_baseline_v0
+31390e85,2026-10-27T11:22:39.102074,558550,Serie A,Venezia FC,FC Internazionale Milano,2026-10-28T17:30:00Z,Under 2.5 goals,0.1534,,,,0.81,4.17,8.9,3.73,poisson_baseline_v0
+f0a57bf1,2026-10-27T11:22:39.102074,558549,Serie A,AC Milan,Bologna FC 1909,2026-10-28T17:30:00Z,1X2 - Home,0.4081,,,,1.27,1.07,8.0,3.6,poisson_baseline_v0
+acda7947,2026-10-27T11:22:39.102074,558549,Serie A,AC Milan,Bologna FC 1909,2026-10-28T17:30:00Z,1X2 - Draw,0.279,,,,1.27,1.07,8.0,3.6,poisson_baseline_v0
+bc497597,2026-10-27T11:22:39.102074,558549,Serie A,AC Milan,Bologna FC 1909,2026-10-28T17:30:00Z,1X2 - Away,0.3129,,,,1.27,1.07,8.0,3.6,poisson_baseline_v0
+a481c593,2026-10-27T11:22:39.102074,558549,Serie A,AC Milan,Bologna FC 1909,2026-10-28T17:30:00Z,Over 2.5 goals,0.4149,,,,1.27,1.07,8.0,3.6,poisson_baseline_v0
+9fa9839d,2026-10-27T11:22:39.102074,558549,Serie A,AC Milan,Bologna FC 1909,2026-10-28T17:30:00Z,Under 2.5 goals,0.5851,,,,1.27,1.07,8.0,3.6,poisson_baseline_v0
+739050c0,2026-10-27T11:22:39.102074,558552,Serie A,Genoa CFC,Juventus FC,2026-10-28T19:45:00Z,1X2 - Home,0.1272,,,,0.43,1.26,9.5,3.53,poisson_baseline_v0
+5482f97d,2026-10-27T11:22:39.102074,558552,Serie A,Genoa CFC,Juventus FC,2026-10-28T19:45:00Z,1X2 - Draw,0.2983,,,,0.43,1.26,9.5,3.53,poisson_baseline_v0
+6a73babc,2026-10-27T11:22:39.102074,558552,Serie A,Genoa CFC,Juventus FC,2026-10-28T19:45:00Z,1X2 - Away,0.5745,,,,0.43,1.26,9.5,3.53,poisson_baseline_v0
+096c2a34,2026-10-27T11:22:39.102074,558552,Serie A,Genoa CFC,Juventus FC,2026-10-28T19:45:00Z,Over 2.5 goals,0.2419,,,,0.43,1.26,9.5,3.53,poisson_baseline_v0
+3f69e8e0,2026-10-27T11:22:39.102074,558552,Serie A,Genoa CFC,Juventus FC,2026-10-28T19:45:00Z,Under 2.5 goals,0.7581,,,,0.43,1.26,9.5,3.53,poisson_baseline_v0
+0cf70ce1,2026-10-27T11:22:39.102074,558554,Serie A,AC Monza,SSC Napoli,2026-10-28T19:45:00Z,1X2 - Home,0.0965,,,,0.87,2.69,9.33,2.67,poisson_baseline_v0
+ae4450d6,2026-10-27T11:22:39.102074,558554,Serie A,AC Monza,SSC Napoli,2026-10-28T19:45:00Z,1X2 - Draw,0.1456,,,,0.87,2.69,9.33,2.67,poisson_baseline_v0
+9b7a0e9d,2026-10-27T11:22:39.102074,558554,Serie A,AC Monza,SSC Napoli,2026-10-28T19:45:00Z,1X2 - Away,0.756,,,,0.87,2.69,9.33,2.67,poisson_baseline_v0
+b3094aef,2026-10-27T11:22:39.102074,558554,Serie A,AC Monza,SSC Napoli,2026-10-28T19:45:00Z,Over 2.5 goals,0.6896,,,,0.87,2.69,9.33,2.67,poisson_baseline_v0
+86343436,2026-10-27T11:22:39.102074,558554,Serie A,AC Monza,SSC Napoli,2026-10-28T19:45:00Z,Under 2.5 goals,0.3104,,,,0.87,2.69,9.33,2.67,poisson_baseline_v0

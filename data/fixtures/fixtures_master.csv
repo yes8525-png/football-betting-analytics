@@ -361,3 +361,8 @@ match_id,competition,competition_code,utc_date,status,home_team,away_team,home_s
 558552,Serie A,SA,2026-10-28T19:45:00Z,TIMED,Genoa CFC,Juventus FC,,
 558558,Serie A,SA,2026-10-29T17:30:00Z,TIMED,Frosinone Calcio,US Lecce,,
 558551,Serie A,SA,2026-10-29T19:45:00Z,TIMED,ACF Fiorentina,Atalanta BC,,
+559646,Ligue 1,FL1,2026-10-30T18:00:00Z,TIMED,OGC Nice,Stade Rennais FC 1901,,
+559644,Ligue 1,FL1,2026-10-30T18:00:00Z,TIMED,Le Havre AC,Paris Saint-Germain FC,,
+565846,Bundesliga,BL1,2026-10-30T19:30:00Z,TIMED,SV 07 Elversberg,1. FSV Mainz 05,,
+564737,Primera Division,PD,2026-10-30T20:00:00Z,TIMED,Villarreal CF,RCD Espanyol de Barcelona,,
+559639,Ligue 1,FL1,2026-10-30T20:05:00Z,TIMED,Lille OSC,Racing Club de Lens,,

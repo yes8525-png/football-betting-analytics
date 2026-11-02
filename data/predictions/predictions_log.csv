@@ -3739,3 +3739,23 @@ f8bf2585,2026-11-01T12:28:13.780116,564731,Primera Division,RC Deportivo La Coru
 14631466,2026-11-01T12:28:13.780116,564731,Primera Division,RC Deportivo La Coruña,CA Osasuna,2026-11-02T20:00:00Z,1X2 - Away,0.2488,,,,1.78,1.16,9.88,5.1,poisson_baseline_v0
 76599f7f,2026-11-01T12:28:13.780116,564731,Primera Division,RC Deportivo La Coruña,CA Osasuna,2026-11-02T20:00:00Z,Over 2.5 goals,0.5628,,,,1.78,1.16,9.88,5.1,poisson_baseline_v0
 f3b8c104,2026-11-01T12:28:13.780116,564731,Primera Division,RC Deportivo La Coruña,CA Osasuna,2026-11-02T20:00:00Z,Under 2.5 goals,0.4372,,,,1.78,1.16,9.88,5.1,poisson_baseline_v0
+f18d893e,2026-11-02T14:26:02.968122,558541,Serie A,US Sassuolo Calcio,ACF Fiorentina,2026-11-02T17:30:00Z,1X2 - Home,0.4256,,,,1.72,1.52,8.97,4.0,poisson_baseline_v0
+a559998a,2026-11-02T14:26:02.968122,558541,Serie A,US Sassuolo Calcio,ACF Fiorentina,2026-11-02T17:30:00Z,1X2 - Draw,0.2315,,,,1.72,1.52,8.97,4.0,poisson_baseline_v0
+79acd934,2026-11-02T14:26:02.968122,558541,Serie A,US Sassuolo Calcio,ACF Fiorentina,2026-11-02T17:30:00Z,1X2 - Away,0.3427,,,,1.72,1.52,8.97,4.0,poisson_baseline_v0
+e459c471,2026-11-02T14:26:02.968122,558541,Serie A,US Sassuolo Calcio,ACF Fiorentina,2026-11-02T17:30:00Z,Over 2.5 goals,0.628,,,,1.72,1.52,8.97,4.0,poisson_baseline_v0
+c63b08eb,2026-11-02T14:26:02.968122,558541,Serie A,US Sassuolo Calcio,ACF Fiorentina,2026-11-02T17:30:00Z,Under 2.5 goals,0.372,,,,1.72,1.52,8.97,4.0,poisson_baseline_v0
+0b2bba31,2026-11-02T14:26:02.968122,558545,Serie A,Atalanta BC,Parma Calcio 1913,2026-11-02T19:45:00Z,1X2 - Home,0.5092,,,,1.46,0.87,9.3,3.0,poisson_baseline_v0
+ecc9aa63,2026-11-02T14:26:02.968122,558545,Serie A,Atalanta BC,Parma Calcio 1913,2026-11-02T19:45:00Z,1X2 - Draw,0.2657,,,,1.46,0.87,9.3,3.0,poisson_baseline_v0
+601a14ce,2026-11-02T14:26:02.968122,558545,Serie A,Atalanta BC,Parma Calcio 1913,2026-11-02T19:45:00Z,1X2 - Away,0.225,,,,1.46,0.87,9.3,3.0,poisson_baseline_v0
+90415c8e,2026-11-02T14:26:02.968122,558545,Serie A,Atalanta BC,Parma Calcio 1913,2026-11-02T19:45:00Z,Over 2.5 goals,0.4138,,,,1.46,0.87,9.3,3.0,poisson_baseline_v0
+ba60caa1,2026-11-02T14:26:02.968122,558545,Serie A,Atalanta BC,Parma Calcio 1913,2026-11-02T19:45:00Z,Under 2.5 goals,0.5862,,,,1.46,0.87,9.3,3.0,poisson_baseline_v0
+68b54028,2026-11-02T14:26:02.968122,564731,Primera Division,RC Deportivo La Coruña,CA Osasuna,2026-11-02T20:00:00Z,1X2 - Home,0.5176,,,,1.78,1.16,9.88,5.1,poisson_baseline_v0
+f31e9f19,2026-11-02T14:26:02.968122,564731,Primera Division,RC Deportivo La Coruña,CA Osasuna,2026-11-02T20:00:00Z,1X2 - Draw,0.2335,,,,1.78,1.16,9.88,5.1,poisson_baseline_v0
+2306773a,2026-11-02T14:26:02.968122,564731,Primera Division,RC Deportivo La Coruña,CA Osasuna,2026-11-02T20:00:00Z,1X2 - Away,0.2489,,,,1.78,1.16,9.88,5.1,poisson_baseline_v0
+05810807,2026-11-02T14:26:02.968122,564731,Primera Division,RC Deportivo La Coruña,CA Osasuna,2026-11-02T20:00:00Z,Over 2.5 goals,0.5625,,,,1.78,1.16,9.88,5.1,poisson_baseline_v0
+8589ce3b,2026-11-02T14:26:02.968122,564731,Primera Division,RC Deportivo La Coruña,CA Osasuna,2026-11-02T20:00:00Z,Under 2.5 goals,0.4375,,,,1.78,1.16,9.88,5.1,poisson_baseline_v0
+32b5bd2c,2026-11-02T14:26:02.968122,560622,Premier League,Newcastle United FC,Everton FC,2026-11-02T20:00:00Z,1X2 - Home,0.3698,,,,1.44,1.47,9.5,4.8,poisson_baseline_v0
+7c52cd02,2026-11-02T14:26:02.968122,560622,Premier League,Newcastle United FC,Everton FC,2026-11-02T20:00:00Z,1X2 - Draw,0.2469,,,,1.44,1.47,9.5,4.8,poisson_baseline_v0
+c1bc91b7,2026-11-02T14:26:02.968122,560622,Premier League,Newcastle United FC,Everton FC,2026-11-02T20:00:00Z,1X2 - Away,0.3832,,,,1.44,1.47,9.5,4.8,poisson_baseline_v0
+829777e1,2026-11-02T14:26:02.968122,560622,Premier League,Newcastle United FC,Everton FC,2026-11-02T20:00:00Z,Over 2.5 goals,0.5579,,,,1.44,1.47,9.5,4.8,poisson_baseline_v0
+128ca8e1,2026-11-02T14:26:02.968122,560622,Premier League,Newcastle United FC,Everton FC,2026-11-02T20:00:00Z,Under 2.5 goals,0.4421,,,,1.44,1.47,9.5,4.8,poisson_baseline_v0

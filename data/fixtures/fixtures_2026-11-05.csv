@@ -1,0 +1,6 @@
+match_id,competition,competition_code,utc_date,status,home_team,away_team,home_score,away_score
+565852,Bundesliga,BL1,2026-11-06T19:30:00Z,TIMED,Hamburger SV,Borussia Mönchengladbach,,
+558537,Serie A,SA,2026-11-06T19:45:00Z,TIMED,Venezia FC,Udinese Calcio,,
+559638,Ligue 1,FL1,2026-11-06T19:45:00Z,TIMED,Toulouse FC,RC Strasbourg Alsace,,
+564740,Primera Division,PD,2026-11-06T20:00:00Z,TIMED,Sevilla FC,Deportivo Alavés,,
+560634,Premier League,PL,2026-11-06T20:00:00Z,TIMED,Everton FC,Coventry City FC,,

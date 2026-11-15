@@ -1,6 +1,6 @@
 # Previsioni in programma
 
-Generato il 14/11/2026 alle 13:48 (ora italiana).
+Generato il 15/11/2026 alle 14:16 (ora italiana).
 
 Nota: sistema in fase di test/carta, nessuna scommessa reale. Le probabilita' sono stime di un modello statistico (Poisson) basato sullo storico delle squadre, non certezze.
 

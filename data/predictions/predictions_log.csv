@@ -4219,3 +4219,18 @@ a251fc6d,2026-11-08T12:39:49.049470,564746,Primera Division,Club Atlético de Ma
 d725035e,2026-11-08T12:39:49.049470,564746,Primera Division,Club Atlético de Madrid,FC Barcelona,2026-11-08T20:00:00Z,1X2 - Away,0.7126,,,,1.31,3.0,10.1,4.07,poisson_baseline_v0
 8574d561,2026-11-08T12:39:49.049470,564746,Primera Division,Club Atlético de Madrid,FC Barcelona,2026-11-08T20:00:00Z,Over 2.5 goals,0.7994,,,,1.31,3.0,10.1,4.07,poisson_baseline_v0
 b42bf49d,2026-11-08T12:39:49.049470,564746,Primera Division,Club Atlético de Madrid,FC Barcelona,2026-11-08T20:00:00Z,Under 2.5 goals,0.2006,,,,1.31,3.0,10.1,4.07,poisson_baseline_v0
+7dcd1f8c,2026-11-19T15:01:04.420217,565859,Bundesliga,FC Bayern München,1. FC Köln,2026-11-20T19:30:00Z,1X2 - Home,0.8202,,,,3.61,1.07,11.13,3.33,poisson_baseline_v0
+6ea5c0bc,2026-11-19T15:01:04.420217,565859,Bundesliga,FC Bayern München,1. FC Köln,2026-11-20T19:30:00Z,1X2 - Draw,0.0989,,,,3.61,1.07,11.13,3.33,poisson_baseline_v0
+5a3268bc,2026-11-19T15:01:04.420217,565859,Bundesliga,FC Bayern München,1. FC Köln,2026-11-20T19:30:00Z,1X2 - Away,0.0689,,,,3.61,1.07,11.13,3.33,poisson_baseline_v0
+06d00549,2026-11-19T15:01:04.420217,565859,Bundesliga,FC Bayern München,1. FC Köln,2026-11-20T19:30:00Z,Over 2.5 goals,0.8343,,,,3.61,1.07,11.13,3.33,poisson_baseline_v0
+5ce42e60,2026-11-19T15:01:04.420217,565859,Bundesliga,FC Bayern München,1. FC Köln,2026-11-20T19:30:00Z,Under 2.5 goals,0.1657,,,,3.61,1.07,11.13,3.33,poisson_baseline_v0
+2ac2c514,2026-11-19T15:01:04.420217,559622,Ligue 1,ES Troyes AC,Le Havre AC,2026-11-20T19:45:00Z,1X2 - Home,0.2065,,,,0.94,1.7,9.37,3.87,poisson_baseline_v0
+bbcded54,2026-11-19T15:01:04.420217,559622,Ligue 1,ES Troyes AC,Le Havre AC,2026-11-20T19:45:00Z,1X2 - Draw,0.2395,,,,0.94,1.7,9.37,3.87,poisson_baseline_v0
+6c2b747b,2026-11-19T15:01:04.420217,559622,Ligue 1,ES Troyes AC,Le Havre AC,2026-11-20T19:45:00Z,1X2 - Away,0.5539,,,,0.94,1.7,9.37,3.87,poisson_baseline_v0
+1d80370e,2026-11-19T15:01:04.420217,559622,Ligue 1,ES Troyes AC,Le Havre AC,2026-11-20T19:45:00Z,Over 2.5 goals,0.4921,,,,0.94,1.7,9.37,3.87,poisson_baseline_v0
+b7b0781e,2026-11-19T15:01:04.420217,559622,Ligue 1,ES Troyes AC,Le Havre AC,2026-11-20T19:45:00Z,Under 2.5 goals,0.5079,,,,0.94,1.7,9.37,3.87,poisson_baseline_v0
+7199e21b,2026-11-19T15:01:04.420217,564748,Primera Division,Athletic Club,RCD Espanyol de Barcelona,2026-11-20T20:00:00Z,1X2 - Home,0.2417,,,,0.88,1.36,10.03,4.73,poisson_baseline_v0
+4ca481f7,2026-11-19T15:01:04.420217,564748,Primera Division,Athletic Club,RCD Espanyol de Barcelona,2026-11-20T20:00:00Z,1X2 - Draw,0.2778,,,,0.88,1.36,10.03,4.73,poisson_baseline_v0
+6671fee0,2026-11-19T15:01:04.420217,564748,Primera Division,Athletic Club,RCD Espanyol de Barcelona,2026-11-20T20:00:00Z,1X2 - Away,0.4805,,,,0.88,1.36,10.03,4.73,poisson_baseline_v0
+bd738308,2026-11-19T15:01:04.420217,564748,Primera Division,Athletic Club,RCD Espanyol de Barcelona,2026-11-20T20:00:00Z,Over 2.5 goals,0.3864,,,,0.88,1.36,10.03,4.73,poisson_baseline_v0
+480b08f7,2026-11-19T15:01:04.420217,564748,Primera Division,Athletic Club,RCD Espanyol de Barcelona,2026-11-20T20:00:00Z,Under 2.5 goals,0.6136,,,,0.88,1.36,10.03,4.73,poisson_baseline_v0

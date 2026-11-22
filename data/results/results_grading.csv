@@ -174,3 +174,13 @@ e3f353d3,2026-09-04T23:09:54.230332,560566,Premier League,Ipswich Town FC,Liverp
 f295cb25,2026-09-04T23:09:54.230332,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,1X2 - Away,0.3989,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0,1.0,2.0,True
 a880f5a2,2026-09-04T23:09:54.230332,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Over 2.5 goals,0.7223,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0,1.0,2.0,True
 2c1ece69,2026-09-04T23:09:54.230332,559697,Ligue 1,Paris Saint-Germain FC,AS Monaco FC,2026-09-04T19:05:00Z,Under 2.5 goals,0.2777,,,,1.86,1.89,9.93,3.47,poisson_baseline_v0,1.0,2.0,False
+0bef904b,2026-11-21T13:59:21.211935,558521,Serie A,Juventus FC,Venezia FC,2026-11-22T11:30:00Z,1X2 - Home,0.5878,,,,1.67,0.77,10.7,3.13,poisson_baseline_v0,4.0,0.0,True
+6f8c2560,2026-11-21T13:59:21.211935,558521,Serie A,Juventus FC,Venezia FC,2026-11-22T11:30:00Z,1X2 - Draw,0.241,,,,1.67,0.77,10.7,3.13,poisson_baseline_v0,4.0,0.0,False
+a5f414f6,2026-11-21T13:59:21.211935,558521,Serie A,Juventus FC,Venezia FC,2026-11-22T11:30:00Z,1X2 - Away,0.1711,,,,1.67,0.77,10.7,3.13,poisson_baseline_v0,4.0,0.0,False
+7ecac1a1,2026-11-21T13:59:21.211935,558521,Serie A,Juventus FC,Venezia FC,2026-11-22T11:30:00Z,Over 2.5 goals,0.4412,,,,1.67,0.77,10.7,3.13,poisson_baseline_v0,4.0,0.0,True
+902b6201,2026-11-21T13:59:21.211935,558521,Serie A,Juventus FC,Venezia FC,2026-11-22T11:30:00Z,Under 2.5 goals,0.5588,,,,1.67,0.77,10.7,3.13,poisson_baseline_v0,4.0,0.0,False
+f3441cc5,2026-11-22T13:52:54.312797,558521,Serie A,Juventus FC,Venezia FC,2026-11-22T11:30:00Z,1X2 - Home,0.5878,,,,1.67,0.77,10.7,3.13,poisson_baseline_v0,4.0,0.0,True
+fff7b362,2026-11-22T13:52:54.312797,558521,Serie A,Juventus FC,Venezia FC,2026-11-22T11:30:00Z,1X2 - Draw,0.241,,,,1.67,0.77,10.7,3.13,poisson_baseline_v0,4.0,0.0,False
+da16afdb,2026-11-22T13:52:54.312797,558521,Serie A,Juventus FC,Venezia FC,2026-11-22T11:30:00Z,1X2 - Away,0.1711,,,,1.67,0.77,10.7,3.13,poisson_baseline_v0,4.0,0.0,False
+1366ba37,2026-11-22T13:52:54.312797,558521,Serie A,Juventus FC,Venezia FC,2026-11-22T11:30:00Z,Over 2.5 goals,0.4412,,,,1.67,0.77,10.7,3.13,poisson_baseline_v0,4.0,0.0,True
+5a781ed7,2026-11-22T13:52:54.312797,558521,Serie A,Juventus FC,Venezia FC,2026-11-22T11:30:00Z,Under 2.5 goals,0.5588,,,,1.67,0.77,10.7,3.13,poisson_baseline_v0,4.0,0.0,False

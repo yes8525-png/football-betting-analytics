@@ -1,0 +1,13 @@
+match_id,competition,competition_code,utc_date,status,home_team,away_team,home_score,away_score
+558519,Serie A,SA,2026-11-23T19:45:00Z,TIMED,AC Monza,ACF Fiorentina,,
+564757,Primera Division,PD,2026-11-23T20:00:00Z,TIMED,Levante UD,Elche CF,,
+560649,Premier League,PL,2026-11-23T20:00:00Z,TIMED,Brentford FC,Everton FC,,
+575395,UEFA Champions League,CL,2026-11-24T17:45:00Z,TIMED,Galatasaray SK,Aston Villa FC,,
+575396,UEFA Champions League,CL,2026-11-24T17:45:00Z,TIMED,FK Bodø/Glimt,LASK Linz,,
+575401,UEFA Champions League,CL,2026-11-24T20:00:00Z,TIMED,ŠK Slovan Bratislava,Real Betis Balompié,,
+575397,UEFA Champions League,CL,2026-11-24T20:00:00Z,TIMED,Real Madrid CF,PSV,,
+575403,UEFA Champions League,CL,2026-11-24T20:00:00Z,TIMED,Como 1907,PAE AEK,,
+575399,UEFA Champions League,CL,2026-11-24T20:00:00Z,TIMED,Arsenal FC,Borussia Dortmund,,
+575400,UEFA Champions League,CL,2026-11-24T20:00:00Z,TIMED,Feyenoord Rotterdam,FC Porto,,
+575402,UEFA Champions League,CL,2026-11-24T20:00:00Z,TIMED,RB Leipzig,Racing Club de Lens,,
+575398,UEFA Champions League,CL,2026-11-24T20:00:00Z,TIMED,Manchester City FC,SSC Napoli,,
